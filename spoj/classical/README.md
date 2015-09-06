@@ -24,6 +24,7 @@
 |  1030 | [Triple Fat Ladies][]                  | [triple_fat_ladies.cpp][]                |
 |  1043 | [Can you answer these queries I][]     | [can_you_answer_these_queries_1.cpp][]   |
 |  1112 | [Number Steps][]                       | [number_steps.cpp][]                     |
+|  1419 | [A Game with Numbers][]                | [a_game_with_numbers.cpp][]              |
 |  1436 | [Is it a tree][]                       | [is_it_a_tree.cpp][]                     |
 |  1684 | [Frequent Values][]                    | [frequent_values.cpp][]                  |
 |  1716 | [Can you answer these queries III][]   | [can_you_answer_these_queries_3.cpp][]   |
@@ -72,6 +73,7 @@
 [Triple Fat Ladies]:                  http://www.spoj.com/problems/EIGHTS/
 [Can you answer these queries I]:     http://www.spoj.com/problems/GSS1/
 [Number Steps]:                       http://www.spoj.com/problems/NSTEPS/
+[A Game with Numbers]:                http://www.spoj.com/problems/NGM/
 [Is it a tree]:                       http://www.spoj.com/problems/PT07Y/
 [Frequent Values]:                    http://www.spoj.com/problems/FREQUENT/
 [Can you answer these queries III]:   http://www.spoj.com/problems/GSS3/
@@ -120,6 +122,7 @@
 [triple_fat_ladies.cpp]:                triple_fat_ladies.cpp
 [can_you_answer_these_queries_1.cpp]:   can_you_answer_these_queries_1.cpp
 [number_steps.cpp]:                     number_steps.cpp
+[a_game_with_numbers.cpp]:              a_game_with_numbers.cpp
 [is_it_a_tree.cpp]:                     is_it_a_tree.cpp
 [frequent_values.cpp]:                  frequent_values.cpp
 [can_you_answer_these_queries_3.cpp]:   can_you_answer_these_queries_3.cpp
