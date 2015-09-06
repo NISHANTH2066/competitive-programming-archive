@@ -12,6 +12,7 @@
 |    42 | [Adding Reversed Numbers][]            | [adding_reversed_numbers.cpp][]          |
 |    54 | [Julka][]                              | [julka.cpp][]                            |
 |    61 | [Brackets][]                           | [brackets.cpp][]                         |
+|    95 | [Street Parade][]                      | [street_parade.cpp][]                    |
 |   263 | [Period][]                             | [period.cpp][]                           |
 |   302 | [Count on Cantor][]                    | [count_on_cantor.cpp][]                  |
 |   346 | [Bytelandian gold coins][]             | [bytelandian_gold_coins.cpp][]           |
@@ -57,6 +58,7 @@
 [Adding Reversed Numbers]:            http://www.spoj.com/problems/ADDREV/
 [Julka]:                              http://www.spoj.com/problems/JULKA/
 [Brackets]:                           http://www.spoj.com/problems/BRCKTS/
+[Street Parade]:                      http://www.spoj.com/problems/STPAR/
 [Period]:                             http://www.spoj.com/problems/PERIOD/
 [Count on Cantor]:                    http://www.spoj.com/problems/CANTON/
 [Bytelandian gold coins]:             http://www.spoj.com/problems/COINS/
@@ -102,6 +104,7 @@
 [adding_reversed_numbers.cpp]:          adding_reversed_numbers.cpp
 [julka.cpp]:                            julka.cpp
 [brackets.cpp]:                         brackets.cpp
+[street_parade.cpp]:                    street_parade.cpp
 [period.cpp]:                           period.cpp
 [count_on_cantor.cpp]:                  count_on_cantor.cpp
 [bytelandian_gold_coins.cpp]:           bytelandian_gold_coins.cpp
