@@ -41,6 +41,7 @@
 |  4300 | [Rectangles][]                         | [rectangles.cpp][]                       |
 |  4408 | [Build a Fence][]                      | [build_a_fence.cpp][]                    |
 |  6256 | [Inversion Count][]                    | [inversion_count.cpp][]                  |
+|  7406 | [Beehive Numbers][]                    | [beehive_numbers.cpp][]                  |
 |  7424 | [Girls and Boys][]                     | [girls_and_boys.cpp][]                   |
 |  7974 | [What's Next][]                        | [whats_next.cpp][]                       |
 |  8002 | [Horrible Queries][]                   | [horrible_queries.cpp][]                 |
@@ -91,6 +92,7 @@
 [Rectangles]:                         http://www.spoj.com/problems/AE00/
 [Build a Fence]:                      http://www.spoj.com/problems/FENCE1/
 [Inversion Count]:                    http://www.spoj.com/problems/INVCNT/
+[Beehive Numbers]:                    http://www.spoj.com/problems/BEENUMS/
 [Girls and Boys]:                     http://www.spoj.com/problems/GIRLSNBS/
 [What's Next]:                        http://www.spoj.com/problems/ACPC10A/
 [Horrible Queries]:                   http://www.spoj.com/problems/HORRIBLE/
@@ -141,6 +143,7 @@
 [rectangles.cpp]:                       rectangles.cpp
 [build_a_fence.cpp]:                    build_a_fence.cpp
 [inversion_count.cpp]:                  inversion_count.cpp
+[beehive_numbers.cpp]:                  beehive_numbers.cpp
 [girls_and_boys.cpp]:                   girls_and_boys.cpp
 [whats_next.cpp]:                       whats_next.cpp
 [horrible_queries.cpp]:                 horrible_queries.cpp
