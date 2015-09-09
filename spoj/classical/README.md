@@ -32,6 +32,7 @@
 |  2123 | [Candy I][]                            | [candy1.cpp][]                           |
 |  2148 | [Candy III][]                          | [candy3.cpp][]                           |
 |  2157 | [Anti-Blot System][]                   | [anti_blot_system.cpp][]                 |
+|  2178 | [He is offside!][]                     | [he_is_offside.cpp][]                    |
 |  2713 | [Can you answer these queries IV][]    | [can_you_answer_these_queries_4.cpp][]   |
 |  2727 | [Army Strength][]                      | [army_strength.cpp][]                    |
 |  3375 | [Stamps][]                             | [stamps.cpp][]                           |
@@ -83,6 +84,7 @@
 [Candy I]:                            http://www.spoj.com/problems/CANDY/
 [Candy III]:                          http://www.spoj.com/problems/CANDY3/
 [Anti-Blot System]:                   http://www.spoj.com/problems/ABSYS/
+[He is offside!]:                     http://www.spoj.com/problems/OFFSIDE/
 [Can you answer these queries IV]:    http://www.spoj.com/problems/GSS4/
 [Army Strength]:                      http://www.spoj.com/problems/ARMY/
 [Stamps]:                             http://www.spoj.com/problems/STAMPS/
@@ -134,6 +136,7 @@
 [candy1.cpp]:                           candy1.cpp
 [candy3.cpp]:                           candy3.cpp
 [anti_blot_system.cpp]:                 anti_blot_system.cpp
+[he_is_offside.cpp]:                    he_is_offside.cpp
 [can_you_answer_these_queries_4.cpp]:   can_you_answer_these_queries_4.cpp
 [army_strength.cpp]:                    army_strength.cpp
 [stamps.cpp]:                           stamps.cpp
