@@ -14,6 +14,7 @@
 | 17102 | [Fun with Sequences][]         | [fun_with_sequences.cpp][]      |
 | 17103 | [Fun with Sequences (Act 2)][] | [fun_with_sequences_act2.cpp][] |
 | 17921 | [Xor][]                        | [xor.cpp][]                     |
+| 17994 | [Cross Pattern (Act 1)][]      | [cross_pattern_act1.cpp][]      |
 
 [Test 1]:                     http://www.spoj.com/problems/TESTINT/
 [Half of the half]:           http://www.spoj.com/problems/STRHH/
@@ -27,6 +28,7 @@
 [Fun with Sequences]:         http://www.spoj.com/problems/SMPSEQ3/
 [Fun with Sequences (Act 2)]: http://www.spoj.com/problems/SMPSEQ4/
 [Xor]:                        http://www.spoj.com/problems/BSCXOR/
+[Cross Pattern (Act 1)]:      http://www.spoj.com/problems/PCROSS1/
 
 [test1.cpp]:                   test1.cpp
 [half_of_the_half.cpp]:        half_of_the_half.cpp
@@ -40,3 +42,4 @@
 [fun_with_sequences.cpp]:      fun_with_sequences.cpp
 [fun_with_sequences_act2.cpp]: fun_with_sequences_act2.cpp
 [xor.cpp]:                     xor.cpp
+[cross_pattern_act1.cpp]:      cross_pattern_act1.cpp
