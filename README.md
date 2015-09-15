@@ -33,6 +33,7 @@ judge archives.
 * [E-Olymp](http://www.e-olymp.com/)
 * [Kattis](https://open.kattis.com/)
 * [COJ](http://coj.uci.cu/)
+* [Project Euler](https://projecteuler.net/)
 
 ## Copyright
 
