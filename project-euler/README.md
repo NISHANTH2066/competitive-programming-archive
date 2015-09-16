@@ -10,6 +10,7 @@
 | 6  | [Sum square difference][]       | [sum_square_difference.cpp][]       |
 | 7  | [10001st prime][]               | [10001st_prime.cpp][]               |
 | 8  | [Largest product in a series][] | [largest_product_in_a_series.cpp][] |
+| 9  | [Special Pythagorean triplet][] | [special_pythagorean_triplet.cpp][] |
 
 [Multiples of 3 and 5]:        https://projecteuler.net/problem=1
 [Even Fibonacci numbers]:      https://projecteuler.net/problem=2
@@ -19,6 +20,7 @@
 [Sum square difference]:       https://projecteuler.net/problem=6
 [10001st prime]:               https://projecteuler.net/problem=7
 [Largest product in a series]: https://projecteuler.net/problem=8
+[Special Pythagorean triplet]: https://projecteuler.net/problem=9
 
 [multiples_of_3_and_5.cpp]:        multiples_of_3_and_5.cpp
 [even_fibonacci_numbers.cpp]:      even_fibonacci_numbers.cpp
@@ -28,3 +30,4 @@
 [sum_square_difference.cpp]:       sum_square_difference.cpp
 [10001st_prime.cpp]:               10001st_prime.cpp
 [largest_product_in_a_series.cpp]: largest_product_in_a_series.cpp
+[special_pythagorean_triplet.cpp]: special_pythagorean_triplet.cpp
