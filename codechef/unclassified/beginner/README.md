@@ -13,6 +13,7 @@
 | [Ambiguous Permutations][]             | [ambiguous_permutations.cpp][]           |
 | [Transform the Expression][]           | [transform_the_expression.cpp][]         |
 | [Add Two Numbers][]                    | [add_two_numbers.cpp][]                  |
+| [Sum of Digits][]                      | [sum_of_digits.cpp][]                    |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -25,6 +26,7 @@
 [Transform the Expression]:           https://www.codechef.com/problems/ONP
 [Ambiguous Permutations]:             https://www.codechef.com/problems/PERMUT2
 [Add Two Numbers]:                    https://www.codechef.com/problems/FLOW001
+[Sum of Digits]:                      https://www.codechef.com/problems/FLOW006
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -39,3 +41,4 @@
 [yet_another_number_game.cpp]:          yet_another_number_game.cpp
 [prime_palindromes.cpp]:                prime_palindromes.cpp
 [add_two_numbers.cpp]:                  add_two_numbers.cpp
+[sum_of_digits.cpp]:                    sum_of_digits.cpp
