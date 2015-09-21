@@ -18,6 +18,7 @@
 | [Reverse The Number][]                 | [reverse_the_number.cpp][]               |
 | [First and Last Digit][]               | [first_and_last_digit.cpp][]             |
 | [Number Mirror][]                      | [number_mirror.cpp][]                    |
+| [Finding Square Roots][]               | [finding_square_roots.cpp][]             |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -35,6 +36,7 @@
 [Reverse The Number]:                 https://www.codechef.com/problems/FLOW007
 [First and Last Digit]:               https://www.codechef.com/problems/FLOW004
 [Number Mirror]:                      https://www.codechef.com/problems/START01
+[Finding Square Roots]:               https://www.codechef.com/problems/FSQRT
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -54,3 +56,4 @@
 [reverse_the_number.cpp]:               reverse_the_number.cpp
 [first_and_last_digit.cpp]:             first_and_last_digit.cpp
 [number_mirror.cpp]:                    number_mirror.cpp
+[finding_square_roots.cpp]:             finding_square_roots.cpp
