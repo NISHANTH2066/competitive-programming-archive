@@ -21,6 +21,7 @@
 | [Finding Square Roots][]               | [finding_square_roots.cpp][]             |
 | [Small Factorial][]                    | [small_factorial.cpp][]                  |
 | [Second Largest][]                     | [second_largest.cpp][]                   |
+| [Servant][]                            | [servant.cpp][]                          |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -41,6 +42,7 @@
 [Finding Square Roots]:               https://www.codechef.com/problems/FSQRT
 [Small Factorial]:                    https://www.codechef.com/problems/FLOW018
 [Second Largest]:                     https://www.codechef.com/problems/FLOW017
+[Servant]:                            https://www.codechef.com/problems/FLOW008
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -63,3 +65,4 @@
 [finding_square_roots.cpp]:             finding_square_roots.cpp
 [small_factorial.cpp]:                  small_factorial.cpp
 [second_largest.cpp]:                   second_largest.cpp
+[servant.cpp]:                          servant.cpp
