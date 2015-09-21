@@ -14,7 +14,6 @@
 | [Transform the Expression][]           | [transform_the_expression.cpp][]         |
 | [Add Two Numbers][]                    | [add_two_numbers.cpp][]                  |
 | [Sum of Digits][]                      | [sum_of_digits.cpp][]                    |
-| [Fit Squares in Triangle][]            | [fit_squares_in_triangle.cpp][]          |
 | [Find Remainder][]                     | [find_remainder.cpp][]                   |
 | [Reverse The Number][]                 | [reverse_the_number.cpp][]               |
 | [First and Last Digit][]               | [first_and_last_digit.cpp][]             |
@@ -32,7 +31,6 @@
 [Ambiguous Permutations]:             https://www.codechef.com/problems/PERMUT2
 [Add Two Numbers]:                    https://www.codechef.com/problems/FLOW001
 [Sum of Digits]:                      https://www.codechef.com/problems/FLOW006
-[Fit Squares in Triangle]:            https://www.codechef.com/problems/TRISQ
 [Find Remainder]:                     https://www.codechef.com/problems/FLOW002
 [Reverse The Number]:                 https://www.codechef.com/problems/FLOW007
 [First and Last Digit]:               https://www.codechef.com/problems/FLOW004
@@ -52,7 +50,6 @@
 [prime_palindromes.cpp]:                prime_palindromes.cpp
 [add_two_numbers.cpp]:                  add_two_numbers.cpp
 [sum_of_digits.cpp]:                    sum_of_digits.cpp
-[fit_squares_in_triangle.cpp]:          fit_squares_in_triangle.cpp
 [find_remainder.cpp]:                   find_remainder.cpp
 [reverse_the_number.cpp]:               reverse_the_number.cpp
 [first_and_last_digit.cpp]:             first_and_last_digit.cpp
