@@ -14,6 +14,7 @@
 | [Transform the Expression][]           | [transform_the_expression.cpp][]         |
 | [Add Two Numbers][]                    | [add_two_numbers.cpp][]                  |
 | [Sum of Digits][]                      | [sum_of_digits.cpp][]                    |
+| [Fit Squares in Triangle][]            | [fit_squares_in_triangle.cpp][]          |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -27,6 +28,7 @@
 [Ambiguous Permutations]:             https://www.codechef.com/problems/PERMUT2
 [Add Two Numbers]:                    https://www.codechef.com/problems/FLOW001
 [Sum of Digits]:                      https://www.codechef.com/problems/FLOW006
+[Fit Squares in Triangle]:            https://www.codechef.com/problems/TRISQ
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -42,3 +44,4 @@
 [prime_palindromes.cpp]:                prime_palindromes.cpp
 [add_two_numbers.cpp]:                  add_two_numbers.cpp
 [sum_of_digits.cpp]:                    sum_of_digits.cpp
+[fit_squares_in_triangle.cpp]:          fit_squares_in_triangle.cpp
