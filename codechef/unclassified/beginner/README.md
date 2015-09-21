@@ -17,6 +17,7 @@
 | [Fit Squares in Triangle][]            | [fit_squares_in_triangle.cpp][]          |
 | [Find Remainder][]                     | [find_remainder.cpp][]                   |
 | [Reverse The Number][]                 | [reverse_the_number.cpp][]               |
+| [First and Last Digit][]               | [first_and_last_digit.cpp][]             |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -33,6 +34,7 @@
 [Fit Squares in Triangle]:            https://www.codechef.com/problems/TRISQ
 [Find Remainder]:                     https://www.codechef.com/problems/FLOW002
 [Reverse The Number]:                 https://www.codechef.com/problems/FLOW007
+[First and Last Digit]:               https://www.codechef.com/problems/FLOW004
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -51,3 +53,4 @@
 [fit_squares_in_triangle.cpp]:          fit_squares_in_triangle.cpp
 [find_remainder.cpp]:                   find_remainder.cpp
 [reverse_the_number.cpp]:               reverse_the_number.cpp
+[first_and_last_digit.cpp]:             first_and_last_digit.cpp
