@@ -19,6 +19,7 @@
 | [First and Last Digit][]               | [first_and_last_digit.cpp][]             |
 | [Number Mirror][]                      | [number_mirror.cpp][]                    |
 | [Finding Square Roots][]               | [finding_square_roots.cpp][]             |
+| [Small Factorial][]                    | [small_factorial.cpp][]                  |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -37,6 +38,7 @@
 [First and Last Digit]:               https://www.codechef.com/problems/FLOW004
 [Number Mirror]:                      https://www.codechef.com/problems/START01
 [Finding Square Roots]:               https://www.codechef.com/problems/FSQRT
+[Small Factorial]:                    https://www.codechef.com/problems/FLOW018
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -57,3 +59,4 @@
 [first_and_last_digit.cpp]:             first_and_last_digit.cpp
 [number_mirror.cpp]:                    number_mirror.cpp
 [finding_square_roots.cpp]:             finding_square_roots.cpp
+[small_factorial.cpp]:                  small_factorial.cpp
