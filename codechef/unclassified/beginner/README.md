@@ -25,6 +25,7 @@
 | [Valid Triangles][]                    | [valid_triangles.cpp][]                  |
 | [Smallest Numbers of Notes][]          | [smallest_numbers_of_notes.cpp][]        |
 | [Primality Test][]                     | [primality_test.cpp][]                   |
+| [Total Expenses][]                     | [total_expenses.cpp][]                   |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -49,6 +50,7 @@
 [Valid Triangles]:                    https://www.codechef.com/problems/FLOW013
 [Smallest Numbers of Notes]:          https://www.codechef.com/problems/FLOW005
 [Primality Test]:                     https://www.codechef.com/problems/PRB01
+[Total Expenses]:                     https://www.codechef.com/problems/FLOW009
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -75,3 +77,4 @@
 [valid_triangles.cpp]:                  valid_triangles.cpp
 [smallest_numbers_of_notes.cpp]:        smallest_numbers_of_notes.cpp
 [primality_test.cpp]:                   primality_test.cpp
+[total_expenses.cpp]:                   total_expenses.cpp
