@@ -23,6 +23,7 @@
 | [Second Largest][]                     | [second_largest.cpp][]                   |
 | [Servant][]                            | [servant.cpp][]                          |
 | [Valid Triangles][]                    | [valid_triangles.cpp][]                  |
+| [Smallest Numbers of Notes][]          | [smallest_numbers_of_notes.cpp][]        |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -45,6 +46,7 @@
 [Second Largest]:                     https://www.codechef.com/problems/FLOW017
 [Servant]:                            https://www.codechef.com/problems/FLOW008
 [Valid Triangles]:                    https://www.codechef.com/problems/FLOW013
+[Smallest Numbers of Notes]:          https://www.codechef.com/problems/FLOW005
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -69,3 +71,4 @@
 [second_largest.cpp]:                   second_largest.cpp
 [servant.cpp]:                          servant.cpp
 [valid_triangles.cpp]:                  valid_triangles.cpp
+[smallest_numbers_of_notes.cpp]:        smallest_numbers_of_notes.cpp
