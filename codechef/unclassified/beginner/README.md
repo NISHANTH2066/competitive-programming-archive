@@ -26,6 +26,7 @@
 | [Smallest Numbers of Notes][]          | [smallest_numbers_of_notes.cpp][]        |
 | [Primality Test][]                     | [primality_test.cpp][]                   |
 | [Total Expenses][]                     | [total_expenses.cpp][]                   |
+| [The Block Game][]                     | [the_block_game.cpp][]                   |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -51,6 +52,7 @@
 [Smallest Numbers of Notes]:          https://www.codechef.com/problems/FLOW005
 [Primality Test]:                     https://www.codechef.com/problems/PRB01
 [Total Expenses]:                     https://www.codechef.com/problems/FLOW009
+[The Block Game]:                     https://www.codechef.com/problems/PALL01
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -78,3 +80,4 @@
 [smallest_numbers_of_notes.cpp]:        smallest_numbers_of_notes.cpp
 [primality_test.cpp]:                   primality_test.cpp
 [total_expenses.cpp]:                   total_expenses.cpp
+[the_block_game.cpp]:                   the_block_game.cpp
