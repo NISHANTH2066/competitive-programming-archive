@@ -28,6 +28,7 @@
 | [Total Expenses][]                     | [total_expenses.cpp][]                   |
 | [The Block Game][]                     | [the_block_game.cpp][]                   |
 | [Id and Ship][]                        | [id_and_ship.cpp][]                      |
+| [GCD and LCM][]                        | [gcd_and_lcm.cpp][]                      |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -55,6 +56,7 @@
 [Total Expenses]:                     https://www.codechef.com/problems/FLOW009
 [The Block Game]:                     https://www.codechef.com/problems/PALL01
 [Id and Ship]:                        https://www.codechef.com/problems/FLOW010
+[GCD and LCM]:                        https://www.codechef.com/problems/FLOW016
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -84,3 +86,4 @@
 [total_expenses.cpp]:                   total_expenses.cpp
 [the_block_game.cpp]:                   the_block_game.cpp
 [id_and_ship.cpp]:                      id_and_ship.cpp
+[gcd_and_lcm.cpp]:                      gcd_and_lcm.cpp
