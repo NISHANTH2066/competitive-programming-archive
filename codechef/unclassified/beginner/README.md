@@ -22,6 +22,7 @@
 | [Small Factorial][]                    | [small_factorial.cpp][]                  |
 | [Second Largest][]                     | [second_largest.cpp][]                   |
 | [Servant][]                            | [servant.cpp][]                          |
+| [Valid Triangles][]                    | [valid_triangles.cpp][]                  |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -43,6 +44,7 @@
 [Small Factorial]:                    https://www.codechef.com/problems/FLOW018
 [Second Largest]:                     https://www.codechef.com/problems/FLOW017
 [Servant]:                            https://www.codechef.com/problems/FLOW008
+[Valid Triangles]:                    https://www.codechef.com/problems/FLOW013
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -66,3 +68,4 @@
 [small_factorial.cpp]:                  small_factorial.cpp
 [second_largest.cpp]:                   second_largest.cpp
 [servant.cpp]:                          servant.cpp
+[valid_triangles.cpp]:                  valid_triangles.cpp
