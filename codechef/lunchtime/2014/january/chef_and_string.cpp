@@ -22,13 +22,13 @@ int main()
     unsigned int che  {0};
     unsigned int chef {0};
 
-    for (auto symbol : sequence)
+    for (auto letter : sequence)
     {
-        if (symbol == 'C')
+        if (letter == 'C')
         {
             ++c;
         }
-        else if (symbol == 'H')
+        else if (letter == 'H')
         {
             if (c > 0)
             {
@@ -36,7 +36,7 @@ int main()
                 ++ch;
             }
         }
-        else if (symbol == 'E')
+        else if (letter == 'E')
         {
             if (ch > 0)
             {
