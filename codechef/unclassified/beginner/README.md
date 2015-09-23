@@ -32,6 +32,7 @@
 | [Gross Salary][]                       | [gross_salary.cpp][]                     |
 | [Grade The Steel][]                    | [grade_the_steel.cpp][]                  |
 | [Chef and Operators][]                 | [chef_and_operators.cpp][]               |
+| [Farmer And His Plot][]                | [farmer_and_his_plot.cpp][]              |
 
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 [ATM]:                                https://www.codechef.com/problems/HS08TEST
@@ -63,6 +64,7 @@
 [Gross Salary]:                       https://www.codechef.com/problems/FLOW011
 [Grade The Steel]:                    https://www.codechef.com/problems/FLOW014
 [Chef and Operators]:                 https://www.codechef.com/problems/CHOPRT
+[Farmer And His Plot]:                https://www.codechef.com/problems/RECTSQ
 
 [life_the_universe_and_everything.cpp]: life_the_universe_and_everything.cpp
 [atm.cpp]:                              atm.cpp
@@ -96,3 +98,4 @@
 [gross_salary.cpp]:                     gross_salary.cpp
 [grade_the_steel.cpp]:                  grade_the_steel.cpp
 [chef_and_operators.cpp]:               chef_and_operators.cpp
+[farmer_and_his_plot.cpp]:              farmer_and_his_plot.cpp
