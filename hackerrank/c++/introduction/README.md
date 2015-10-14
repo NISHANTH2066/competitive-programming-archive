@@ -10,6 +10,7 @@
 | [For Loop][]               | [for_loop.cpp][]               |
 | [Functions][]              | [functions.cpp][]              |
 | [Arrays Introduction][]    | [arrays_introduction.cpp][]    |
+| [Operator Overloading][]   | [operator_overloading.cpp][]   |
 
 [Hello, World!]:          https://www.hackerrank.com/challenges/cpp-hello-world
 [Input and Output]:       https://www.hackerrank.com/challenges/cpp-input-and-output
@@ -19,6 +20,7 @@
 [For Loop]:               https://www.hackerrank.com/challenges/c-tutorial-for-loop
 [Functions]:              https://www.hackerrank.com/challenges/c-tutorial-functions
 [Arrays Introduction]:    https://www.hackerrank.com/challenges/arrays-introduction
+[Operator Overloading]:   https://www.hackerrank.com/challenges/operator-overloading
 
 [hello_world.cpp]:            hello_world.cpp
 [input_and_output.cpp]:       input_and_output.cpp
@@ -28,3 +30,5 @@
 [for_loop.cpp]:               for_loop.cpp
 [functions.cpp]:              functions.cpp
 [arrays_introduction.cpp]:    arrays_introduction.cpp
+[operator_overloading.cpp]:   operator_overloading.cpp
+
