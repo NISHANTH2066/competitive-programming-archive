@@ -25,25 +25,17 @@ int main()
         cin >> gain;
     }
 
-    unsigned int current {1};
-    unsigned int longest {1};
+    vector<unsigned int> lengths(days, 1);
 
     for (unsigned int i {1}; i < days; ++i)
     {
         if (gains[i] >= gains[i - 1])
         {
-            ++current;
+            lengths[i] = lengths[i - 1] + 1;
         }
-        else
-        {
-            current = 1;
-        }
-
-        longest = max(longest, current);
     }
 
-    cout << longest << '\n';
+    cout << *max_element(lengths.cbegin(), lengths.cend()) << '\n';
 
     return 0;
 }
-
