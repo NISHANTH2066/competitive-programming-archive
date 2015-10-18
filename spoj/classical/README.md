@@ -48,6 +48,7 @@
 |  7974 | [What's Next][]                        | [whats_next.cpp][]                       |
 |  8002 | [Horrible Queries][]                   | [horrible_queries.cpp][]                 |
 |  8545 | [Subset sum][]                         | [subset_sum.cpp][]                       |
+|  8670 | [THE MAX LINES][]                      | [the_max_lines.cpp][]                    |
 |  9948 | [Will it ever stop][]                  | [will_it_ever_stop.cpp][]                |
 | 10509 | [Cards][]                              | [cards.cpp][]                            |
 | 10582 | [subarrays][]                          | [subarrays.cpp][]                        |
@@ -102,6 +103,7 @@
 [What's Next]:                        http://www.spoj.com/problems/ACPC10A/
 [Horrible Queries]:                   http://www.spoj.com/problems/HORRIBLE/
 [Subset sum]:                         http://www.spoj.com/problems/MAIN72/
+[THE MAX LINES]:                      http://www.spoj.com/problems/MAXLN/
 [Will it ever stop]:                  http://www.spoj.com/problems/WILLITST/
 [Cards]:                              http://www.spoj.com/problems/CRDS/
 [subarrays]:                          http://www.spoj.com/problems/ARRAYSUB/
@@ -156,6 +158,7 @@
 [whats_next.cpp]:                       whats_next.cpp
 [horrible_queries.cpp]:                 horrible_queries.cpp
 [subset_sum.cpp]:                       subset_sum.cpp
+[the_max_lines.cpp]:                    the_max_lines.cpp
 [will_it_ever_stop.cpp]:                will_it_ever_stop.cpp
 [cards.cpp]:                            cards.cpp
 [subarrays.cpp]:                        subarrays.cpp
