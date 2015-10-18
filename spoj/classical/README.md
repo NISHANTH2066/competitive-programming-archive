@@ -49,6 +49,7 @@
 |  8002 | [Horrible Queries][]                   | [horrible_queries.cpp][]                 |
 |  8545 | [Subset sum][]                         | [subset_sum.cpp][]                       |
 |  9948 | [Will it ever stop][]                  | [will_it_ever_stop.cpp][]                |
+| 10509 | [Cards][]                              | [cards.cpp][]                            |
 | 10582 | [subarrays][]                          | [subarrays.cpp][]                        |
 | 11063 | [AP - Complete The Series (Easy)][]    | [ap_complete_the_series_easy.cpp][]      |
 | 11772 | [Negative Score][]                     | [negative_score.cpp][]                   |
@@ -102,6 +103,7 @@
 [Horrible Queries]:                   http://www.spoj.com/problems/HORRIBLE/
 [Subset sum]:                         http://www.spoj.com/problems/MAIN72/
 [Will it ever stop]:                  http://www.spoj.com/problems/WILLITST/
+[Cards]:                              http://www.spoj.com/problems/CRDS/
 [subarrays]:                          http://www.spoj.com/problems/ARRAYSUB/
 [AP - Complete The Series (Easy)]:    http://www.spoj.com/problems/AP2/
 [Negative Score]:                     http://www.spoj.com/problems/RPLN/
@@ -155,6 +157,7 @@
 [horrible_queries.cpp]:                 horrible_queries.cpp
 [subset_sum.cpp]:                       subset_sum.cpp
 [will_it_ever_stop.cpp]:                will_it_ever_stop.cpp
+[cards.cpp]:                            cards.cpp
 [subarrays.cpp]:                        subarrays.cpp
 [ap_complete_the_series_easy.cpp]:      ap_complete_the_series_easy.cpp
 [negative_score.cpp]:                   negative_score.cpp
