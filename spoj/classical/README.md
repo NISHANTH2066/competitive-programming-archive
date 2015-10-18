@@ -45,6 +45,7 @@
 |  6256 | [Inversion Count][]                    | [inversion_count.cpp][]                  |
 |  7406 | [Beehive Numbers][]                    | [beehive_numbers.cpp][]                  |
 |  7424 | [Girls and Boys][]                     | [girls_and_boys.cpp][]                   |
+|  7742 | [Onotole needs your help][]            | [onotole_needs_your_help.cpp][]          |
 |  7974 | [What's Next][]                        | [whats_next.cpp][]                       |
 |  8002 | [Horrible Queries][]                   | [horrible_queries.cpp][]                 |
 |  8545 | [Subset sum][]                         | [subset_sum.cpp][]                       |
@@ -100,6 +101,7 @@
 [Inversion Count]:                    http://www.spoj.com/problems/INVCNT/
 [Beehive Numbers]:                    http://www.spoj.com/problems/BEENUMS/
 [Girls and Boys]:                     http://www.spoj.com/problems/GIRLSNBS/
+[Onotole needs your help]:            http://www.spoj.com/problems/OLOLO/
 [What's Next]:                        http://www.spoj.com/problems/ACPC10A/
 [Horrible Queries]:                   http://www.spoj.com/problems/HORRIBLE/
 [Subset sum]:                         http://www.spoj.com/problems/MAIN72/
@@ -155,6 +157,7 @@
 [inversion_count.cpp]:                  inversion_count.cpp
 [beehive_numbers.cpp]:                  beehive_numbers.cpp
 [girls_and_boys.cpp]:                   girls_and_boys.cpp
+[onotole_needs_your_help.cpp]:          onotole_needs_your_help.cpp
 [whats_next.cpp]:                       whats_next.cpp
 [horrible_queries.cpp]:                 horrible_queries.cpp
 [subset_sum.cpp]:                       subset_sum.cpp
