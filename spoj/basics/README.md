@@ -13,6 +13,7 @@
 | 15711 | [Wow][]                        | [wow.cpp][]                     |
 | 17102 | [Fun with Sequences][]         | [fun_with_sequences.cpp][]      |
 | 17103 | [Fun with Sequences (Act 2)][] | [fun_with_sequences_act2.cpp][] |
+| 17104 | [Fun with Sequences (Act 3)][] | [fun_with_sequences_act3.cpp][] |
 | 17921 | [Xor][]                        | [xor.cpp][]                     |
 | 17994 | [Cross Pattern (Act 1)][]      | [cross_pattern_act1.cpp][]      |
 
@@ -27,6 +28,7 @@
 [Wow]:                        http://www.spoj.com/problems/SMPWOW/
 [Fun with Sequences]:         http://www.spoj.com/problems/SMPSEQ3/
 [Fun with Sequences (Act 2)]: http://www.spoj.com/problems/SMPSEQ4/
+[Fun with Sequences (Act 3)]: http://www.spoj.com/problems/SMPSEQ5/
 [Xor]:                        http://www.spoj.com/problems/BSCXOR/
 [Cross Pattern (Act 1)]:      http://www.spoj.com/problems/PCROSS1/
 
@@ -41,5 +43,6 @@
 [wow.cpp]:                     wow.cpp
 [fun_with_sequences.cpp]:      fun_with_sequences.cpp
 [fun_with_sequences_act2.cpp]: fun_with_sequences_act2.cpp
+[fun_with_sequences_act3.cpp]: fun_with_sequences_act3.cpp
 [xor.cpp]:                     xor.cpp
 [cross_pattern_act1.cpp]:      cross_pattern_act1.cpp
