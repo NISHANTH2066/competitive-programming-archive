@@ -17,6 +17,7 @@
 | 17921 | [Xor][]                        | [xor.cpp][]                     |
 | 17994 | [Cross Pattern (Act 1)][]      | [cross_pattern_act1.cpp][]      |
 | 18011 | [Fun with Sequences (Act 6)][] | [fun_with_sequences_act6.cpp][] |
+| 18139 | [Substitution cipher][]        | [substitution_cipher.cpp][]     |
 
 [Test 1]:                     http://www.spoj.com/problems/TESTINT/
 [Half of the half]:           http://www.spoj.com/problems/STRHH/
@@ -33,6 +34,7 @@
 [Xor]:                        http://www.spoj.com/problems/BSCXOR/
 [Cross Pattern (Act 1)]:      http://www.spoj.com/problems/PCROSS1/
 [Fun with Sequences (Act 6)]: http://www.spoj.com/problems/SMPSEQ8/
+[Substitution cipher]:        http://www.spoj.com/problems/SMPCPH1/
 
 [test1.cpp]:                   test1.cpp
 [half_of_the_half.cpp]:        half_of_the_half.cpp
@@ -49,3 +51,4 @@
 [xor.cpp]:                     xor.cpp
 [cross_pattern_act1.cpp]:      cross_pattern_act1.cpp
 [fun_with_sequences_act6.cpp]: fun_with_sequences_act6.cpp
+[substitution_cipher.cpp]:     substitution_cipher.cpp
