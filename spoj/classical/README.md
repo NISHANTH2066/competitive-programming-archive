@@ -42,6 +42,7 @@
 |  3693 | [Maximum Sum][]                        | [maximum_sum.cpp][]                      |
 |  4300 | [Rectangles][]                         | [rectangles.cpp][]                       |
 |  4408 | [Build a Fence][]                      | [build_a_fence.cpp][]                    |
+|  5699 | [The last digit re-visited][]          | [the_last_digit_revisited.cpp][]         |
 |  6256 | [Inversion Count][]                    | [inversion_count.cpp][]                  |
 |  7406 | [Beehive Numbers][]                    | [beehive_numbers.cpp][]                  |
 |  7424 | [Girls and Boys][]                     | [girls_and_boys.cpp][]                   |
@@ -99,6 +100,7 @@
 [Maximum Sum]:                        http://www.spoj.com/problems/KGSS/
 [Rectangles]:                         http://www.spoj.com/problems/AE00/
 [Build a Fence]:                      http://www.spoj.com/problems/FENCE1/
+[The last digit re-visited]:          http://www.spoj.com/problems/LASTDIG2/
 [Inversion Count]:                    http://www.spoj.com/problems/INVCNT/
 [Beehive Numbers]:                    http://www.spoj.com/problems/BEENUMS/
 [Girls and Boys]:                     http://www.spoj.com/problems/GIRLSNBS/
@@ -156,6 +158,7 @@
 [maximum_sum.cpp]:                      maximum_sum.cpp
 [rectangles.cpp]:                       rectangles.cpp
 [build_a_fence.cpp]:                    build_a_fence.cpp
+[the_last_digit_revisited.cpp]:         the_last_digit_revisited.cpp
 [inversion_count.cpp]:                  inversion_count.cpp
 [beehive_numbers.cpp]:                  beehive_numbers.cpp
 [girls_and_boys.cpp]:                   girls_and_boys.cpp
