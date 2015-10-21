@@ -22,6 +22,7 @@
 |   400 | [To and Fro][]                         | [to_and_fro.cpp][]                       |
 |   902 | [Hangover][]                           | [hangover.cpp][]                         |
 |  1025 | [Fashion Shows][]                      | [fashion_shows.cpp][]                    |
+|  1028 | [Hubulullu][]                          | [hubulullu.cpp][]                        |
 |  1030 | [Triple Fat Ladies][]                  | [triple_fat_ladies.cpp][]                |
 |  1043 | [Can you answer these queries I][]     | [can_you_answer_these_queries_1.cpp][]   |
 |  1112 | [Number Steps][]                       | [number_steps.cpp][]                     |
@@ -80,6 +81,7 @@
 [To and Fro]:                         http://www.spoj.com/problems/TOANDFRO/
 [Hangover]:                           http://www.spoj.com/problems/HANGOVER/
 [Fashion Shows]:                      http://www.spoj.com/problems/FASHION/
+[Hubulullu]:                          http://www.spoj.com/problems/HUBULLU/
 [Triple Fat Ladies]:                  http://www.spoj.com/problems/EIGHTS/
 [Can you answer these queries I]:     http://www.spoj.com/problems/GSS1/
 [Number Steps]:                       http://www.spoj.com/problems/NSTEPS/
@@ -138,6 +140,7 @@
 [to_and_fro.cpp]:                       to_and_fro.cpp
 [hangover.cpp]:                         hangover.cpp
 [fashion_shows.cpp]:                    fashion_shows.cpp
+[hubulullu.cpp]:                        hubulullu.cpp
 [triple_fat_ladies.cpp]:                triple_fat_ladies.cpp
 [can_you_answer_these_queries_1.cpp]:   can_you_answer_these_queries_1.cpp
 [number_steps.cpp]:                     number_steps.cpp
