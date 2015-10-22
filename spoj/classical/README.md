@@ -29,6 +29,7 @@
 |  1419 | [A Game with Numbers][]                | [a_game_with_numbers.cpp][]              |
 |  1436 | [Is it a tree][]                       | [is_it_a_tree.cpp][]                     |
 |  1684 | [Frequent Values][]                    | [frequent_values.cpp][]                  |
+|  1688 | [A Very Easy Problem!][]               | [a_very_easy_problem.cpp][]              |
 |  1716 | [Can you answer these queries III][]   | [can_you_answer_these_queries_3.cpp][]   |
 |  1724 | [Counting Triangles][]                 | [counting_triangles.cpp][]               |
 |  2123 | [Candy I][]                            | [candy1.cpp][]                           |
@@ -88,6 +89,7 @@
 [A Game with Numbers]:                http://www.spoj.com/problems/NGM/
 [Is it a tree]:                       http://www.spoj.com/problems/PT07Y/
 [Frequent Values]:                    http://www.spoj.com/problems/FREQUENT/
+[A Very Easy Problem!]:               http://www.spoj.com/problems/EASYPROB/
 [Can you answer these queries III]:   http://www.spoj.com/problems/GSS3/
 [Counting Triangles]:                 http://www.spoj.com/problems/TRICOUNT/
 [Candy I]:                            http://www.spoj.com/problems/CANDY/
@@ -147,6 +149,7 @@
 [a_game_with_numbers.cpp]:              a_game_with_numbers.cpp
 [is_it_a_tree.cpp]:                     is_it_a_tree.cpp
 [frequent_values.cpp]:                  frequent_values.cpp
+[a_very_easy_problem.cpp]:              a_very_easy_problem.cpp
 [can_you_answer_these_queries_3.cpp]:   can_you_answer_these_queries_3.cpp
 [counting_triangles.cpp]:               counting_triangles.cpp
 [candy1.cpp]:                           candy1.cpp
