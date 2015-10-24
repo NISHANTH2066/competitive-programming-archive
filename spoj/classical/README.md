@@ -38,6 +38,7 @@
 |  2178 | [He is offside!][]                     | [he_is_offside.cpp][]                    |
 |  2713 | [Can you answer these queries IV][]    | [can_you_answer_these_queries_4.cpp][]   |
 |  2727 | [Army Strength][]                      | [army_strength.cpp][]                    |
+|  2738 | [Number Guessing Game][]               | [number_guessing_game.txt][]             |
 |  3375 | [Stamps][]                             | [stamps.cpp][]                           |
 |  3410 | [Feynman][]                            | [feynman.cpp][]                          |
 |  3442 | [The last digit][]                     | [the_last_digit.cpp][]                   |
@@ -98,6 +99,7 @@
 [He is offside!]:                     http://www.spoj.com/problems/OFFSIDE/
 [Can you answer these queries IV]:    http://www.spoj.com/problems/GSS4/
 [Army Strength]:                      http://www.spoj.com/problems/ARMY/
+[Number Guessing Game]:               http://www.spoj.com/problems/GUESSING/
 [Stamps]:                             http://www.spoj.com/problems/STAMPS/
 [Feynman]:                            http://www.spoj.com/problems/SAMER08F/
 [The last digit]:                     http://www.spoj.com/problems/LASTDIG/
@@ -158,6 +160,7 @@
 [he_is_offside.cpp]:                    he_is_offside.cpp
 [can_you_answer_these_queries_4.cpp]:   can_you_answer_these_queries_4.cpp
 [army_strength.cpp]:                    army_strength.cpp
+[number_guessing_game.txt]:             number_guessing_game.txt
 [stamps.cpp]:                           stamps.cpp
 [feynman.cpp]:                          feynman.cpp
 [the_last_digit.cpp]:                   the_last_digit.cpp
