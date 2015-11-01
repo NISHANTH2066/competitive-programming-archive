@@ -4,12 +4,15 @@
 |:-------------------|:----------------------:|
 | [Lonely Integer][] | [lonely_integer.cpp][] |
 | [Maximizing XOR][] | [maximizing_xor.cpp][] |
+| [Counter game][]   | [counter_game.cpp][]   |
 | [Flipping bits][]  | [flipping_bits.cpp][]  |
 
 [Lonely Integer]: https://www.hackerrank.com/challenges/lonely-integer
 [Maximizing XOR]: https://www.hackerrank.com/challenges/utopian-tree
+[Counter game]:   https://www.hackerrank.com/challenges/counter-game
 [Flipping bits]:  https://www.hackerrank.com/challenges/flipping-bits
 
 [lonely_integer.cpp]: lonely_integer.cpp
 [maximizing_xor.cpp]: maximizing_xor.cpp
+[counter_game.cpp]:   counter_game.cpp
 [flipping_bits.cpp]:  flipping_bits.cpp
