@@ -1,9 +1,12 @@
 # Greedy
 
-| Problem Statement |    Solution     |
-|:------------------|:---------------:|
-| [Max Min][]       | [max_min.cpp][] |
+| Problem Statement |       Solution        |
+|:------------------|:---------------------:|
+| [Mark and Toys][] | [mark_and_toys.cpp][] |
+| [Max Min][]       | [max_min.cpp][]       |
 
-[Max Min]: https://www.hackerrank.com/challenges/angry-children
+[Mark and Toys]: https://www.hackerrank.com/challenges/mark-and-toys
+[Max Min]:       https://www.hackerrank.com/challenges/angry-children
 
-[max_min.cpp]: max_min.cpp
+[mark_and_toys.cpp]: mark_and_toys.cpp
+[max_min.cpp]:       max_min.cpp
