@@ -1,12 +1,15 @@
 # Greedy
 
-| Problem Statement |       Solution        |
-|:------------------|:---------------------:|
-| [Mark and Toys][] | [mark_and_toys.cpp][] |
-| [Max Min][]       | [max_min.cpp][]       |
+|   Problem Statement    |          Solution          |
+|:-----------------------|:--------------------------:|
+| [Jim and the Orders][] | [jim_and_the_orders.cpp][] |
+| [Mark and Toys][]      | [mark_and_toys.cpp][]      |
+| [Max Min][]            | [max_min.cpp][]            |
 
-[Mark and Toys]: https://www.hackerrank.com/challenges/mark-and-toys
-[Max Min]:       https://www.hackerrank.com/challenges/angry-children
+[Jim and the Orders]: https://www.hackerrank.com/challenges/jim-and-the-orders
+[Mark and Toys]:      https://www.hackerrank.com/challenges/mark-and-toys
+[Max Min]:            https://www.hackerrank.com/challenges/angry-children
 
-[mark_and_toys.cpp]: mark_and_toys.cpp
-[max_min.cpp]:       max_min.cpp
+[jim_and_the_orders.cpp]: jim_and_the_orders.cpp
+[mark_and_toys.cpp]:      mark_and_toys.cpp
+[max_min.cpp]:            max_min.cpp
