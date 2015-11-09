@@ -15,6 +15,7 @@
 | 2035 | [Another Dress Rehearsal][]     | [another_dress_rehearsal.cpp][]     |
 | 2056 | [Scholarship][]                 | [scholarship.cpp][]                 |
 | 2066 | [Simple Expression][]           | [simple_expression.cpp][]           |
+| 2068 | [Game of Nuts][]                | [game_of_nuts.cpp][]                |
 
 [Grand Theft Array V]:         http://acm.timus.ru/problem.aspx?space=1&num=2000
 [Mathematicians and Berries]:  http://acm.timus.ru/problem.aspx?space=1&num=2001
@@ -29,6 +30,7 @@
 [Another Dress Rehearsal]:     http://acm.timus.ru/problem.aspx?space=1&num=2035
 [Scholarship]:                 http://acm.timus.ru/problem.aspx?space=1&num=2056
 [Simple Expression]:           http://acm.timus.ru/problem.aspx?space=1&num=2066
+[Game of Nuts]:                http://acm.timus.ru/problem.aspx?space=1&num=2068
 
 [grand_theft_array_v.cpp]:         grand_theft_array_v.cpp
 [mathematicians_and_berries.cpp]:  mathematicians_and_berries.cpp
@@ -43,3 +45,4 @@
 [another_dress_rehearsal.cpp]:     another_dress_rehearsal.cpp
 [scholarship.cpp]:                 scholarship.cpp
 [simple_expression.cpp]:           simple_expression.cpp
+[game_of_nuts.cpp]:                game_of_nuts.cpp
