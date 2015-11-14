@@ -12,6 +12,7 @@
 | 1226 | [esreveR redrO][]                       | [esrever_redro.cpp][]                       |
 | 1228 | [Array][]                               | [array.cpp][]                               |
 | 1243 | [Divorce of the Seven Dwarfs][]         | [divorce_of_the_seven_dwarfs.cpp][]         |
+| 1260 | [Nudnik Photographer][]                 | [nudnik_photographer.cpp][]                 |
 | 1263 | [Elections][]                           | [elections.cpp][]                           |
 | 1264 | [Workdays][]                            | [workdays.cpp][]                            |
 | 1272 | [Non-Yekaterinburg Subway][]            | [non_yekaterinburg_subway.cpp][]            |
@@ -32,6 +33,7 @@
 [esreveR redrO]:                       http://acm.timus.ru/problem.aspx?space=1&num=1226
 [Array]:                               http://acm.timus.ru/problem.aspx?space=1&num=1228
 [Divorce of the Seven Dwarfs]:         http://acm.timus.ru/problem.aspx?space=1&num=1243
+[Nudnik Photographer]:                 http://acm.timus.ru/problem.aspx?space=1&num=1260
 [Elections]:                           http://acm.timus.ru/problem.aspx?space=1&num=1263
 [Workdays]:                            http://acm.timus.ru/problem.aspx?space=1&num=1264
 [Non-Yekaterinburg Subway]:            http://acm.timus.ru/problem.aspx?space=1&num=1272
@@ -52,6 +54,7 @@
 [esrever_redro.cpp]:                       esrever_redro.cpp
 [array.cpp]:                               array.cpp
 [divorce_of_the_seven_dwarfs.cpp]:         divorce_of_the_seven_dwarfs.cpp
+[nudnik_photographer.cpp]:                 nudnik_photographer.cpp
 [elections.cpp]:                           elections.cpp
 [workdays.cpp]:                            workdays.cpp
 [non_yekaterinburg_subway.cpp]:            non_yekaterinburg_subway.cpp
