@@ -9,6 +9,7 @@
 | 2010 | [Sasha the Young Grandmaster][] | [sasha_the_young_grandmaster.cpp][] |
 | 2011 | [Long Statement][]              | [long_statement.cpp][]              |
 | 2012 | [About Grisha N.][]             | [about_grisha_n.cpp][]              |
+| 2018 | [The Debut Album][]             | [the_debut_album.cpp][]             |
 | 2020 | [Traffic Jam in Flower Town][]  | [traffic_jam_in_flower_town.cpp][]  |
 | 2023 | [Donald is a postman][]         | [donald_is_a_postman.cpp][]         |
 | 2031 | [Overturned Numbers][]          | [overturned_numbers.cpp][]          |
@@ -24,6 +25,7 @@
 [Sasha the Young Grandmaster]: http://acm.timus.ru/problem.aspx?space=1&num=2010
 [Long Statement]:              http://acm.timus.ru/problem.aspx?space=1&num=2011
 [About Grisha N.]:             http://acm.timus.ru/problem.aspx?space=1&num=2012
+[The Debut Album]:             http://acm.timus.ru/problem.aspx?space=1&num=2018
 [Traffic Jam in Flower Town]:  http://acm.timus.ru/problem.aspx?space=1&num=2020
 [Donald is a postman]:         http://acm.timus.ru/problem.aspx?space=1&num=2023
 [Overturned Numbers]:          http://acm.timus.ru/problem.aspx?space=1&num=2031
@@ -39,6 +41,7 @@
 [sasha_the_young_grandmaster.cpp]: sasha_the_young_grandmaster.cpp
 [long_statement.cpp]:              long_statement.cpp
 [about_grisha_n.cpp]:              about_grisha_n.cpp
+[the_debut_album.cpp]:             the_debut_album.cpp
 [traffic_jam_in_flower_town.cpp]:  traffic_jam_in_flower_town.cpp
 [donald_is_a_postman.cpp]:         donald_is_a_postman.cpp
 [overturned_numbers.cpp]:          overturned_numbers.cpp
