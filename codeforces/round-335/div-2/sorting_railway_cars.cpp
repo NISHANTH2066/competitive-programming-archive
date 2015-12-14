@@ -11,53 +11,24 @@ void use_io_optimizations()
     cin.tie(nullptr);
 }
 
-class SortingRailwayCars
-{
-public:
-
-    void read_input()
-    {
-        cin >> cars;
-
-        numbers.resize(cars);
-        lengths.resize(cars + 1);
-
-        for (auto& number : numbers)
-        {
-            cin >> number;
-        }
-    }
-
-    void solve()
-    {
-        for (auto number : numbers)
-        {
-            lengths[number] = lengths[number - 1] + 1;
-        }
-    }
-
-    void write_output()
-    {
-        cout << cars - *max_element(lengths.cbegin(), lengths.cend()) << '\n';
-    }
-
-private:
-
-    unsigned int cars;
-
-    vector<unsigned int> numbers;
-    vector<unsigned int> lengths;
-};
-
 int main()
 {
     use_io_optimizations();
 
-    SortingRailwayCars instance;
+    unsigned int cars;
+    cin >> cars;
 
-    instance.read_input();
-    instance.solve();
-    instance.write_output();
+    vector<unsigned int> lengths(cars + 1);
+
+    for (unsigned int i {0}; i < cars; ++i)
+    {
+        unsigned int number;
+        cin >> number;
+
+        lengths[number] = lengths[number - 1] + 1;
+    }
+
+    cout << cars - *max_element(lengths.cbegin(), lengths.cend()) << '\n';
 
     return 0;
 }
