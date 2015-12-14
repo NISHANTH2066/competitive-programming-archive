@@ -8,6 +8,7 @@
 | 1009 | [K-based Numbers][]      | [k_based_numbers.cpp][]     |
 | 1014 | [Product of Digits][]    | [product_of_digits.cpp][]   |
 | 1020 | [Rope][]                 | [rope.cpp][]                |
+| 1022 | [Genealogical Tree][]    | [genealogical_tree.cpp][]   |
 | 1025 | [Democracy in Danger][]  | [democracy_in_danger.cpp][] |
 | 1028 | [Stars][]                | [stars.cpp][]               |
 | 1044 | [Lucky Tickets. Easy!][] | [lucky_tickets_easy.cpp][]  |
@@ -25,6 +26,7 @@
 [K-based Numbers]:      http://acm.timus.ru/problem.aspx?space=1&num=1009
 [Product of Digits]:    http://acm.timus.ru/problem.aspx?space=1&num=1014
 [Rope]:                 http://acm.timus.ru/problem.aspx?space=1&num=1020
+[Genealogical Tree]:    http://acm.timus.ru/problem.aspx?space=1&num=1022
 [Democracy in Danger]:  http://acm.timus.ru/problem.aspx?space=1&num=1025
 [Stars]:                http://acm.timus.ru/problem.aspx?space=1&num=1028
 [Lucky Tickets. Easy!]: http://acm.timus.ru/problem.aspx?space=1&num=1044
@@ -42,6 +44,7 @@
 [k_based_numbers.cpp]:     k_based_numbers.cpp
 [product_of_digits.cpp]:   product_of_digits.cpp
 [rope.cpp]:                rope.cpp
+[genealogical_tree.cpp]:   genealogical_tree.cpp
 [democracy_in_danger.cpp]: democracy_in_danger.cpp
 [stars.cpp]:               stars.cpp
 [lucky_tickets_easy.cpp]:  lucky_tickets_easy.cpp
