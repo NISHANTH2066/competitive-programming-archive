@@ -7,6 +7,7 @@
 | 1924 | [Four Imps][]                         | [four_imps.cpp][]                         |
 | 1925 | [British Scientists Save the World][] | [british_scientists_save_the_world.cpp][] |
 | 1935 | [Tears of Drowned][]                  | [tears_of_drowned.cpp][]                  |
+| 1982 | [Electrification Plan][]              | [electrification_plan.cpp][]              |
 | 1991 | [The battle near the swamp][]         | [the_battle_near_the_swamp.cpp][]         |
 
 [Neo-Venice]:                        http://acm.timus.ru/problem.aspx?space=1&num=1902
@@ -14,6 +15,7 @@
 [Four Imps]:                         http://acm.timus.ru/problem.aspx?space=1&num=1924
 [British Scientists Save the World]: http://acm.timus.ru/problem.aspx?space=1&num=1925
 [Tears of Drowned]:                  http://acm.timus.ru/problem.aspx?space=1&num=1935
+[Electrification Plan]:              http://acm.timus.ru/problem.aspx?space=1&num=1982
 [The battle near the swamp]:         http://acm.timus.ru/problem.aspx?space=1&num=1991
 
 [neo_venice.cpp]:                        neo_venice.cpp
@@ -21,4 +23,5 @@
 [four_imps.cpp]:                         four_imps.cpp
 [british_scientists_save_the_world.cpp]: british_scientists_save_the_world.cpp
 [tears_of_drowned.cpp]:                  tears_of_drowned.cpp
+[electrification_plan.cpp]:              electrification_plan.cpp
 [the_battle_near_the_swamp.cpp]:         the_battle_near_the_swamp.cpp
