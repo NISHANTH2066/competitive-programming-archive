@@ -8,6 +8,7 @@
 | 1330 | [Intervals][]                    | [intervals.cpp][]                   |
 | 1336 | [Problem of Ben Betsalel][]      | [problem_of_ben_betsalel.cpp][]     |
 | 1349 | [Farm][]                         | [farm.cpp][]                        |
+| 1352 | [Mersenne Primes][]              | [mersenne_primes.cpp][]             |
 | 1353 | [Milliard Vasya's Function][]    | [milliard_vasyas_function.cpp][]    |
 | 1354 | [Palindrome. Again Palindrome][] | [palindrome_again_palindrome.cpp][] |
 | 1370 | [Magician][]                     | [magician.cpp][]                    |
@@ -18,6 +19,7 @@
 [Intervals]:                    http://acm.timus.ru/problem.aspx?space=1&num=1330
 [Problem of Ben Betsalel]:      http://acm.timus.ru/problem.aspx?space=1&num=1336
 [Farm]:                         http://acm.timus.ru/problem.aspx?space=1&num=1349
+[Mersenne Primes]:              http://acm.timus.ru/problem.aspx?space=1&num=1352
 [Milliard Vasya's Function]:    http://acm.timus.ru/problem.aspx?space=1&num=1353
 [Palindrome. Again Palindrome]: http://acm.timus.ru/problem.aspx?space=1&num=1354
 [Magician]:                     http://acm.timus.ru/problem.aspx?space=1&num=1370
@@ -28,6 +30,7 @@
 [intervals.cpp]:                   intervals.cpp
 [problem_of_ben_betsalel.cpp]:     problem_of_ben_betsalel.cpp
 [farm.cpp]:                        farm.cpp
+[mersenne_primes.cpp]:             mersenne_primes.cpp
 [milliard_vasyas_function.cpp]:    milliard_vasyas_function.cpp
 [palindrome_again_palindrome.cpp]: palindrome_again_palindrome.cpp
 [magician.cpp]:                    magician.cpp
