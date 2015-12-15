@@ -8,6 +8,7 @@
 | 1925 | [British Scientists Save the World][] | [british_scientists_save_the_world.cpp][] |
 | 1931 | [Excellent Team][]                    | [excellent_team.cpp][]                    |
 | 1935 | [Tears of Drowned][]                  | [tears_of_drowned.cpp][]                  |
+| 1964 | [Chinese Dialects][]                  | [chinese_dialects.cpp][]                  |
 | 1982 | [Electrification Plan][]              | [electrification_plan.cpp][]              |
 | 1991 | [The battle near the swamp][]         | [the_battle_near_the_swamp.cpp][]         |
 
@@ -17,6 +18,7 @@
 [British Scientists Save the World]: http://acm.timus.ru/problem.aspx?space=1&num=1925
 [Excellent Team]:                    http://acm.timus.ru/problem.aspx?space=1&num=1931
 [Tears of Drowned]:                  http://acm.timus.ru/problem.aspx?space=1&num=1935
+[Chinese Dialects]:                  http://acm.timus.ru/problem.aspx?space=1&num=1964
 [Electrification Plan]:              http://acm.timus.ru/problem.aspx?space=1&num=1982
 [The battle near the swamp]:         http://acm.timus.ru/problem.aspx?space=1&num=1991
 
@@ -26,5 +28,6 @@
 [british_scientists_save_the_world.cpp]: british_scientists_save_the_world.cpp
 [excellent_team.cpp]:                    excellent_team.cpp
 [tears_of_drowned.cpp]:                  tears_of_drowned.cpp
+[chinese_dialects.cpp]:                  chinese_dialects.cpp
 [electrification_plan.cpp]:              electrification_plan.cpp
 [the_battle_near_the_swamp.cpp]:         the_battle_near_the_swamp.cpp
