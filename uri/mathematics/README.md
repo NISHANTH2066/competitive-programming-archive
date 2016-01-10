@@ -1,9 +1,12 @@
 # Mathematics
 
-|  ID  | Problem Statement |       Solution        |
-|:----:|:------------------|:---------------------:|
-| 1161 | [Factorial Sum][] | [factorial_sum.cpp][] |
+|  ID  |      Problem Statement      |            Solution             |
+|:----:|:----------------------------|:-------------------------------:|
+| 1161 | [Factorial Sum][]           | [factorial_sum.cpp][]           |
+| 1169 | [Grains in a Chess Board][] | [grains_in_a_chess_board.cpp][] |
 
-[Factorial Sum]: https://www.urionlinejudge.com.br/judge/en/problems/view/1161
+[Factorial Sum]:           https://www.urionlinejudge.com.br/judge/en/problems/view/1161
+[Grains in a Chess Board]: https://www.urionlinejudge.com.br/judge/en/problems/view/1169
 
-[factorial_sum.cpp]: factorial_sum.cpp
+[factorial_sum.cpp]:           factorial_sum.cpp
+[grains_in_a_chess_board.cpp]: grains_in_a_chess_board.cpp
