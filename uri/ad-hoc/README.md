@@ -8,6 +8,7 @@
 | 1216 | [Getline One][]              | [getline_one.cpp][]              |
 | 1329 | [Head or Tail][]             | [head_or_tail.cpp][]             |
 | 1387 | [Og][]                       | [og.cpp][]                       |
+| 1397 | [Game of The Greatest][]     | [game_of_the_greatest.cpp][]     |
 
 [To Carry or not to Carry]: https://www.urionlinejudge.com.br/judge/en/problems/view/1026
 [Queen]:                    https://www.urionlinejudge.com.br/judge/en/problems/view/1087
@@ -15,6 +16,7 @@
 [Getline One]:              https://www.urionlinejudge.com.br/judge/en/problems/view/1216
 [Head or Tail]:             https://www.urionlinejudge.com.br/judge/en/problems/view/1329
 [Og]:                       https://www.urionlinejudge.com.br/judge/en/problems/view/1387
+[Game of The Greatest]:     https://www.urionlinejudge.com.br/judge/en/problems/view/1397
 
 [to_carry_or_not_to_carry.cpp]: to_carry_or_not_to_carry.cpp
 [queen.cpp]:                    tda_rational.cpp
@@ -22,3 +24,4 @@
 [getline_one.cpp]:              getline_one.cpp
 [head_or_tail.cpp]:             head_or_tail.cpp
 [og.cpp]:                       og.cpp
+[game_of_the_greatest.cpp]:     game_of_the_greatest.cpp
