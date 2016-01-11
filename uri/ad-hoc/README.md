@@ -10,6 +10,7 @@
 | 1387 | [Og][]                       | [og.cpp][]                       |
 | 1397 | [Game of The Greatest][]     | [game_of_the_greatest.cpp][]     |
 | 1437 | [Turn Left!][]               | [turn_left.cpp][]                |
+| 1467 | [Zero or One][]              | [zero_or_one.cpp][]              |
 
 [To Carry or not to Carry]: https://www.urionlinejudge.com.br/judge/en/problems/view/1026
 [Queen]:                    https://www.urionlinejudge.com.br/judge/en/problems/view/1087
@@ -19,6 +20,7 @@
 [Og]:                       https://www.urionlinejudge.com.br/judge/en/problems/view/1387
 [Game of The Greatest]:     https://www.urionlinejudge.com.br/judge/en/problems/view/1397
 [Turn Left!]:               https://www.urionlinejudge.com.br/judge/en/problems/view/1437
+[Zero or One]:              https://www.urionlinejudge.com.br/judge/en/problems/view/1467
 
 [to_carry_or_not_to_carry.cpp]: to_carry_or_not_to_carry.cpp
 [queen.cpp]:                    tda_rational.cpp
@@ -28,3 +30,4 @@
 [og.cpp]:                       og.cpp
 [game_of_the_greatest.cpp]:     game_of_the_greatest.cpp
 [turn_left.cpp]:                turn_left.cpp
+[zero_or_one.cpp]:              zero_or_one.cpp
