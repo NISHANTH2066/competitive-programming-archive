@@ -13,7 +13,7 @@ const map<char, map<char, char>> rotations {
 inline
 void use_io_optimizations()
 {
-    ios_base::sync_with_stdio();
+    ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
 }
 
