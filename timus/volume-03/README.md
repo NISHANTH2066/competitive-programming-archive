@@ -7,6 +7,7 @@
 | 1209 | [1, 10, 100, 1000 ...][]                | [1_10_100_1000.cpp][]                       |
 | 1214 | [Strange Procedure][]                   | [strange_procedure.cpp][]                   |
 | 1219 | [Symbolic Sequence][]                   | [symbolic_sequence.cpp][]                   |
+| 1222 | [Chernobyl' Eagles][]                   | [chernobyl_eagles.cpp][]
 | 1224 | [Spiral][]                              | [spiral.cpp][]                              |
 | 1225 | [Flags][]                               | [flags.cpp][]                               |
 | 1226 | [esreveR redrO][]                       | [esrever_redro.cpp][]                       |
@@ -28,6 +29,7 @@
 [1, 10, 100, 1000 ...]:                http://acm.timus.ru/problem.aspx?space=1&num=1209
 [Strange Procedure]:                   http://acm.timus.ru/problem.aspx?space=1&num=1214
 [Symbolic Sequence]:                   http://acm.timus.ru/problem.aspx?space=1&num=1219
+[Chernobyl' Eagles]:                   http://acm.timus.ru/problem.aspx?space=1&num=1222
 [Spiral]:                              http://acm.timus.ru/problem.aspx?space=1&num=1224
 [Flags]:                               http://acm.timus.ru/problem.aspx?space=1&num=1225
 [esreveR redrO]:                       http://acm.timus.ru/problem.aspx?space=1&num=1226
@@ -49,6 +51,7 @@
 [1_10_100_1000.cpp]:                       1_10_100_1000.cpp
 [strange_procedure.cpp]:                   strange_procedure.cpp
 [symbolic_sequence.cpp]:                   symbolic_sequence.cpp
+[chernobyl_eagles.cpp]:                    chernobyl_eagles.cpp
 [spiral.cpp]:                              spiral.cpp
 [flags.cpp]:                               flags.cpp
 [esrever_redro.cpp]:                       esrever_redro.cpp
