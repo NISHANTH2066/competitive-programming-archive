@@ -7,6 +7,7 @@
 | 1723 | [Sandro's Book][]                | [sandros_book.cpp][]                 |
 | 1725 | [Sold Out!][]                    | [sold_out.cpp][]                     |
 | 1731 | [Dill][]                         | [dill.cpp][]                         |
+| 1740 | [Deer is Better!][]              | [deer_is_better.cpp][]               |
 | 1777 | [Anindilyakwa][]                 | [anindilyakwa.cpp][]                 |
 | 1785 | [Lost in Localization][]         | [lost_in_localization.cpp][]         |
 | 1786 | [Sandro's Biography][]           | [sandros_biography.cpp][]            |
@@ -20,6 +21,7 @@
 [Sandro's Book]:                http://acm.timus.ru/problem.aspx?space=1&num=1723
 [Sold Out!]:                    http://acm.timus.ru/problem.aspx?space=1&num=1725
 [Dill]:                         http://acm.timus.ru/problem.aspx?space=1&num=1731
+[Deer is Better!]:              http://acm.timus.ru/problem.aspx?space=1&num=1740
 [Anindilyakwa]:                 http://acm.timus.ru/problem.aspx?space=1&num=1777
 [Lost in Localization]:         http://acm.timus.ru/problem.aspx?space=1&num=1785
 [Sandro's Biography]:           http://acm.timus.ru/problem.aspx?space=1&num=1786
@@ -33,6 +35,7 @@
 [sandros_book.cpp]:                 sandros_book.cpp
 [sold_out.cpp]:                     sold_out.cpp
 [dill.cpp]:                         dill.cpp
+[deer_is_better.cpp]:               deer_is_better.cpp
 [anindilyakwa.cpp]:                 anindilyakwa.cpp
 [lost_in_localization.cpp]:         lost_in_localization.cpp
 [sandros_biography.cpp]:            sandros_biography.cpp
