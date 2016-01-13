@@ -12,6 +12,7 @@
 | 1982 | [Electrification Plan][]              | [electrification_plan.cpp][]              |
 | 1984 | [Dummy Guy][]                         | [dummy_guy.cpp][]                         |
 | 1991 | [The battle near the swamp][]         | [the_battle_near_the_swamp.cpp][]         |
+| 1993 | [This cheeseburger you don't need][]  | [this_cheeseburger_you_dont_need.cpp][]   |
 
 [Neo-Venice]:                        http://acm.timus.ru/problem.aspx?space=1&num=1902
 [Titan Ruins: Hidden Entrance]:      http://acm.timus.ru/problem.aspx?space=1&num=1910
@@ -23,6 +24,7 @@
 [Electrification Plan]:              http://acm.timus.ru/problem.aspx?space=1&num=1982
 [Dummy Guy]:                         http://acm.timus.ru/problem.aspx?space=1&num=1984
 [The battle near the swamp]:         http://acm.timus.ru/problem.aspx?space=1&num=1991
+[This cheeseburger you don't need]:  http://acm.timus.ru/problem.aspx?space=1&num=1993
 
 [neo_venice.cpp]:                        neo_venice.cpp
 [titan_ruins_hidden_entrance.cpp]:       titan_ruins_hidden_entrance.cpp
@@ -34,3 +36,4 @@
 [electrification_plan.cpp]:              electrification_plan.cpp
 [dummy_guy.cpp]:                         dummy_guy.cpp
 [the_battle_near_the_swamp.cpp]:         the_battle_near_the_swamp.cpp
+[this_cheeseburger_you_dont_need.cpp]:   this_cheeseburger_you_dont_need.cpp
