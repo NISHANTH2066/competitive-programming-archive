@@ -2,6 +2,7 @@
 
 |  ID  |      Problem statement      |            Solution             |
 |:----:|:----------------------------|:-------------------------------:|
+| 1402 | [Cocktails][]               | [cocktails.cpp][]               |
 | 1404 | [Easy to Hack!][]           | [easy_to_hack.cpp][]            |
 | 1409 | [Two Gangsters][]           | [two_gangsters.cpp][]           |
 | 1446 | [Sorting Hat][]             | [sorting_hat.cpp][]             |
@@ -10,6 +11,7 @@
 | 1493 | [One Step from Happiness][] | [one_step_from_happiness.cpp][] |
 | 1496 | [Spammer][]                 | [spammer.cpp][]                 |
 
+[Cocktails]:               http://acm.timus.ru/problem.aspx?space=1&num=1402
 [Easy to Hack!]:           http://acm.timus.ru/problem.aspx?space=1&num=1404
 [Two Gangsters]:           http://acm.timus.ru/problem.aspx?space=1&num=1409
 [Sorting Hat]:             http://acm.timus.ru/problem.aspx?space=1&num=1446
@@ -18,6 +20,7 @@
 [One Step from Happiness]: http://acm.timus.ru/problem.aspx?space=1&num=1493
 [Spammer]:                 http://acm.timus.ru/problem.aspx?space=1&num=1496
 
+[cocktails.cpp]:               cocktails.cpp
 [easy_to_hack.cpp]:            easy_to_hack.cpp
 [two_gangsters.cpp]:           two_gangsters.cpp
 [sorting_hat.cpp]:             sorting_hat.cpp
