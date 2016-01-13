@@ -14,6 +14,7 @@
 | 1131 | [Copying][]                       | [copying.cpp][]                      |
 | 1136 | [Parliament][]                    | [parliament.cpp][]                   |
 | 1139 | [City Blocks][]                   | [city_blocks.cpp][]                  |
+| 1142 | [Relations][]                     | [relations.cpp][]                    |
 | 1146 | [Maximum Sum][]                   | [maximum_sum.cpp][]                  |
 | 1149 | [Sinus Dances][]                  | [sinus_dances.cpp][]                 |
 | 1161 | [Stripies][]                      | [stripies.cpp][]                     |
@@ -35,6 +36,7 @@
 [Copying]:                       http://acm.timus.ru/problem.aspx?space=1&num=1131
 [Parliament]:                    http://acm.timus.ru/problem.aspx?space=1&num=1136
 [City Blocks]:                   http://acm.timus.ru/problem.aspx?space=1&num=1139
+[Relations]:                     http://acm.timus.ru/problem.aspx?space=1&num=1142
 [Maximum Sum]:                   http://acm.timus.ru/problem.aspx?space=1&num=1146
 [Sinus Dances]:                  http://acm.timus.ru/problem.aspx?space=1&num=1149
 [Stripies]:                      http://acm.timus.ru/problem.aspx?space=1&num=1161
@@ -56,6 +58,7 @@
 [copying.cpp]:                      copying.cpp
 [parliament.cpp]:                   parliament.cpp
 [city_blocks.cpp]:                  city_blocks.cpp
+[relations.cpp]:                    relations.cpp
 [maximum_sum.cpp]:                  maximum_sum.cpp
 [sinus_dances.cpp]:                 sinus_dances.cpp
 [stripies.cpp]:                     stripies.cpp
