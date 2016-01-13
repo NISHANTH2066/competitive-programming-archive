@@ -4,7 +4,7 @@
 
 using namespace std;
 
-const double pi = acos(-1);
+constexpr double pi {acos(-1)};
 
 inline
 void use_io_optimizations()
