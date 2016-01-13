@@ -10,6 +10,7 @@
 | 1935 | [Tears of Drowned][]                  | [tears_of_drowned.cpp][]                  |
 | 1964 | [Chinese Dialects][]                  | [chinese_dialects.cpp][]                  |
 | 1982 | [Electrification Plan][]              | [electrification_plan.cpp][]              |
+| 1984 | [Dummy Guy][]                         | [dummy_guy.cpp][]                         |
 | 1991 | [The battle near the swamp][]         | [the_battle_near_the_swamp.cpp][]         |
 
 [Neo-Venice]:                        http://acm.timus.ru/problem.aspx?space=1&num=1902
@@ -20,6 +21,7 @@
 [Tears of Drowned]:                  http://acm.timus.ru/problem.aspx?space=1&num=1935
 [Chinese Dialects]:                  http://acm.timus.ru/problem.aspx?space=1&num=1964
 [Electrification Plan]:              http://acm.timus.ru/problem.aspx?space=1&num=1982
+[Dummy Guy]:                         http://acm.timus.ru/problem.aspx?space=1&num=1984
 [The battle near the swamp]:         http://acm.timus.ru/problem.aspx?space=1&num=1991
 
 [neo_venice.cpp]:                        neo_venice.cpp
@@ -30,4 +32,5 @@
 [tears_of_drowned.cpp]:                  tears_of_drowned.cpp
 [chinese_dialects.cpp]:                  chinese_dialects.cpp
 [electrification_plan.cpp]:              electrification_plan.cpp
+[dummy_guy.cpp]:                         dummy_guy.cpp
 [the_battle_near_the_swamp.cpp]:         the_battle_near_the_swamp.cpp
