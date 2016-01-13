@@ -4,6 +4,7 @@
 |:----:|:---------------------------|:------------------------------:|
 | 1601 | [AntiCAPS][]               | [anticaps.cpp][]               |
 | 1607 | [Taxi][]                   | [taxi.cpp][]                   |
+| 1612 | [Tram Forum][]             | [tram_forum.cpp][]             |
 | 1617 | [Flat Spots][]             | [flat_spots.cpp][]             |
 | 1636 | [Penalty Time][]           | [penalty_time.cpp][]           |
 | 1638 | [Bookworm][]               | [bookworm.cpp][]               |
@@ -16,6 +17,7 @@
 
 [AntiCAPS]:               http://acm.timus.ru/problem.aspx?space=1&num=1601
 [Taxi]:                   http://acm.timus.ru/problem.aspx?space=1&num=1607
+[Tram Forum]:             http://acm.timus.ru/problem.aspx?space=1&num=1612
 [Flat Spots]:             http://acm.timus.ru/problem.aspx?space=1&num=1607
 [Penalty Time]:           http://acm.timus.ru/problem.aspx?space=1&num=1636
 [Bookworm]:               http://acm.timus.ru/problem.aspx?space=1&num=1638
@@ -28,6 +30,7 @@
 
 [anticaps.cpp]:               anticaps.cpp
 [taxi.cpp]:                   taxi.cpp
+[tram_forum.cpp]:             tram_forum.cpp
 [flat_spots.cpp]:             flat_spots.cpp
 [penalty_time.cpp]:           penalty_time.cpp
 [bookworm.cpp]:               bookworm.cpp
