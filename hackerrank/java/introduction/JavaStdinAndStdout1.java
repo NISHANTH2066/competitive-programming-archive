@@ -31,7 +31,8 @@ public class JavaStdinAndStdout1 {
             while (tokenizer == null || !tokenizer.hasMoreTokens()) {
                 try {
                     tokenizer = new StringTokenizer(reader.readLine());
-                } catch (IOException exception) {
+                }
+                catch (IOException exception) {
                     throw new RuntimeException(exception);
                 }
             }
@@ -46,7 +47,8 @@ public class JavaStdinAndStdout1 {
         public void close() {
             try {
                 reader.close();
-            } catch (IOException exception) {
+            }
+            catch (IOException exception) {
                 throw new RuntimeException(exception);
             }
         }

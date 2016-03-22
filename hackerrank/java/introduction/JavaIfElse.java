@@ -15,11 +15,14 @@ public class JavaIfElse {
 
         if (number % 2 == 1) {
             out.println("Weird");
-        } else if (number <= 5) {
+        }
+        else if (number <= 5) {
             out.println("Not Weird");
-        } else if (number <= 20) {
+        }
+        else if (number <= 20) {
             out.println("Weird");
-        } else {
+        }
+        else {
             out.println("Not Weird");
         }
 
@@ -39,7 +42,8 @@ public class JavaIfElse {
             while (tokenizer == null || !tokenizer.hasMoreTokens()) {
                 try {
                     tokenizer = new StringTokenizer(reader.readLine());
-                } catch (IOException exception) {
+                }
+                catch (IOException exception) {
                     throw new RuntimeException(exception);
                 }
             }
@@ -54,7 +58,8 @@ public class JavaIfElse {
         public void close() {
             try {
                 reader.close();
-            } catch (IOException exception) {
+            }
+            catch (IOException exception) {
                 throw new RuntimeException(exception);
             }
         }
