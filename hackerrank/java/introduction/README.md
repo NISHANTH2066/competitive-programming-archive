@@ -11,6 +11,7 @@
 | [Java Datatypes][]                | [JavaDatatypes.java][]              |
 | [Java End-of-file][]              | [JavaEndOfFile.java][]              |
 | [Java Static Initializer Block][] | [JavaStaticInitializerBlock.java][] |
+| [Java Int to String][]            | [JavaIntToString.java][]            |
 
 [Welcome to Java!]:              https://www.hackerrank.com/challenges/welcome-to-java
 [Java Stdin and Stdout 1]:       https://www.hackerrank.com/challenges/java-stdin-and-stdout-1
@@ -21,6 +22,7 @@
 [Java Datatypes]:                https://www.hackerrank.com/challenges/java-datatypes
 [Java End-of-file]:              https://www.hackerrank.com/challenges/java-end-of-file
 [Java Static Initializer Block]: https://www.hackerrank.com/challenges/java-static-initializer-block
+[Java Int to String]:            https://www.hackerrank.com/challenges/java-int-to-string
 
 [WelcomeToJava.java]:              WelcomeToJava.java
 [JavaStdinAndStdout1.java]:        JavaStdingAndStdout1.java
@@ -31,3 +33,4 @@
 [JavaDatatypes.java]:              JavaDatatypes.java
 [JavaEndOfFile.java]:              JavaEndOfFile.java
 [JavaStaticInitializerBlock.java]: JavaStaticInitializerBlock.java
+[JavaIntToString.java]:            JavaIntToString.java
