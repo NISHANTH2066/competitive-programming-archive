@@ -11,12 +11,18 @@ public class JavaStdinAndStdout1 {
         InputReader in  = new InputReader(System.in);
         PrintWriter out = new PrintWriter(System.out);
 
-        for (int i = 0; i < 3; ++i) {
-            out.println(in.nextInt());
-        }
+        new Problem().solve(in, out);
 
         in.close();
         out.close();
+    }
+
+    private static class Problem {
+        public void solve(InputReader in, PrintWriter out) throws IOException {
+            for (int i = 0; i < 3; ++i) {
+                out.println(in.nextInt());
+            }
+        }
     }
 
     private static class InputReader {

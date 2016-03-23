@@ -11,23 +11,29 @@ public class JavaIfElse {
         InputReader in  = new InputReader(System.in);
         PrintWriter out = new PrintWriter(System.out);
 
-        int number = in.nextInt();
-
-        if (number % 2 == 1) {
-            out.println("Weird");
-        }
-        else if (number <= 5) {
-            out.println("Not Weird");
-        }
-        else if (number <= 20) {
-            out.println("Weird");
-        }
-        else {
-            out.println("Not Weird");
-        }
+        new Problem().solve(in, out);
 
         in.close();
         out.close();
+    }
+
+    private static class Problem {
+        public void solve(InputReader in, PrintWriter out) throws IOException {
+            int number = in.nextInt();
+
+            if (number % 2 == 1) {
+                out.println("Weird");
+            }
+            else if (number <= 5) {
+                out.println("Not Weird");
+            }
+            else if (number <= 20) {
+                out.println("Weird");
+            }
+            else {
+                out.println("Not Weird");
+            }
+        }
     }
 
     private static class InputReader {

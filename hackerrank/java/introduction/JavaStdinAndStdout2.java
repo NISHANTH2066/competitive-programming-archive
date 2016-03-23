@@ -11,16 +11,22 @@ public class JavaStdinAndStdout2 {
         InputReader in  = new InputReader(System.in);
         PrintWriter out = new PrintWriter(System.out);
 
-        int integer = in.nextInt();
-        double real = in.nextDouble();
-        String line = in.nextLine();
-
-        out.println("String: " + line);
-        out.println("Double: " + real);
-        out.println("Int: " + integer);
+        new Problem().solve(in, out);
 
         in.close();
         out.close();
+    }
+
+    private static class Problem {
+        public void solve(InputReader in, PrintWriter out) throws IOException {
+            int integer = in.nextInt();
+            double real = in.nextDouble();
+            String line = in.nextLine();
+
+            out.println("String: " + line);
+            out.println("Double: " + real);
+            out.println("Int: " + integer);
+        }
     }
 
     private static class InputReader {

@@ -11,11 +11,17 @@ public class WelcomeToJava {
         InputReader in  = new InputReader(System.in);
         PrintWriter out = new PrintWriter(System.out);
 
-        out.println("Hello World.");
-        out.println("Hello Java.");
+        new Problem().solve(in, out);
 
         in.close();
         out.close();
+    }
+
+    private static class Problem {
+        public void solve(InputReader in, PrintWriter out) {
+            out.println("Hello World.");
+            out.println("Hello Java.");
+        }
     }
 
     private static class InputReader {
