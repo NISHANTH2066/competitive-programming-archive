@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 
 public class WelcomeToJava {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         InputReader in  = new InputReader(System.in);
         PrintWriter out = new PrintWriter(System.out);
 
@@ -26,30 +26,28 @@ public class WelcomeToJava {
             reader = new BufferedReader(new InputStreamReader(stream));
         }
 
-        public String next() {
+        public String next() throws IOException {
             while (tokenizer == null || !tokenizer.hasMoreTokens()) {
-                try {
-                    tokenizer = new StringTokenizer(reader.readLine());
-                }
-                catch (IOException exception) {
-                    throw new RuntimeException(exception);
-                }
+                tokenizer = new StringTokenizer(reader.readLine());
             }
 
             return tokenizer.nextToken();
         }
 
-        public int nextInt() {
+        public int nextInt() throws IOException {
             return Integer.parseInt(next());
         }
 
-        public void close() {
-            try {
-                reader.close();
-            }
-            catch (IOException exception) {
-                throw new RuntimeException(exception);
-            }
+        public double nextDouble() throws IOException {
+            return Double.parseDouble(next());
+        }
+
+        public String nextLine() throws IOException {
+            return reader.readLine();
+        }
+
+        public void close() throws IOException {
+            reader.close();
         }
     }
 }
