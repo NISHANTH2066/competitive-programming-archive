@@ -15,6 +15,7 @@
 | [Variable Sized Arrays][]  | [variable_sized_arrays.cpp][]  |
 | [Overload Operators][]     | [overload_operators.cpp][]     |
 | [Virtual Functions][]      | [virtual_functions.cpp][]      |
+| [Bit Array][]              | [bit_array.cpp][]              |
 
 [Hello, World!]:          https://www.hackerrank.com/challenges/cpp-hello-world
 [Input and Output]:       https://www.hackerrank.com/challenges/cpp-input-and-output
@@ -29,6 +30,7 @@
 [Variable Sized Arrays]:  https://www.hackerrank.com/challenges/variable-sized-arrays
 [Overload Operators]:     https://www.hackerrank.com/challenges/overload-operators
 [Virtual Functions]:      https://www.hackerrank.com/challenges/virtual-functions
+[Bit Array]:              https://www.hackerrank.com/challenges/bitset-1
 
 [hello_world.cpp]:            hello_world.cpp
 [input_and_output.cpp]:       input_and_output.cpp
@@ -43,3 +45,4 @@
 [variable_sized_arrays.cpp]:  variable_sized_arrays.cpp
 [overload_operators.cpp]:     overload_operators.cpp
 [virtual_functions.cpp]:      virtual_functions.cpp
+[bit_array.cpp]:              bit_array.cpp
