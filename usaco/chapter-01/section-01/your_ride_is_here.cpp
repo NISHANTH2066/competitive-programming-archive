@@ -11,7 +11,8 @@ using namespace std;
 
 constexpr unsigned int modulo {47};
 
-inline unsigned int letter_to_number(char letter)
+inline
+unsigned int letter_to_number(char letter)
 {
     return letter - 'A' + 1;
 }
