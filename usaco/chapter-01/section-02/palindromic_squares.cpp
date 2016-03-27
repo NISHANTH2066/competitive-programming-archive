@@ -13,7 +13,8 @@ using namespace std;
 constexpr unsigned int lower_limit {1};
 constexpr unsigned int upper_limit {300};
 
-inline char digit_to_char(unsigned int digit)
+inline
+char digit_to_char(unsigned int digit)
 {
     if (digit < 10)
     {
