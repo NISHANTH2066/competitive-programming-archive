@@ -45,34 +45,40 @@ Pattern reflect(const Pattern& pattern)
     return reflected;
 }
 
-inline bool is_rotated_90(const Pattern& original, const Pattern& transformed)
+inline
+bool is_rotated_90(const Pattern& original, const Pattern& transformed)
 {
     return transformed == rotate(original);
 }
 
-inline bool is_rotated_180(const Pattern& original, const Pattern& transformed)
+inline
+bool is_rotated_180(const Pattern& original, const Pattern& transformed)
 {
    return transformed == rotate(rotate(original));
 }
 
-inline bool is_rotated_270(const Pattern& original, const Pattern& transformed)
+inline
+bool is_rotated_270(const Pattern& original, const Pattern& transformed)
 {
     return transformed == rotate(rotate(rotate(original)));
 }
 
-inline bool is_reflected(const Pattern& original, const Pattern& transformed)
+inline
+bool is_reflected(const Pattern& original, const Pattern& transformed)
 {
     return transformed == reflect(original);
 }
 
-inline bool is_combined(const Pattern& original, const Pattern& transformed)
+inline
+bool is_combined(const Pattern& original, const Pattern& transformed)
 {
     return (transformed == rotate(reflect(original))         ||
             transformed == rotate(rotate(reflect(original))) ||
             transformed == rotate(rotate(rotate(reflect(original)))));
 }
 
-inline bool is_unchanged(const Pattern& original, const Pattern& transformed)
+inline
+bool is_unchanged(const Pattern& original, const Pattern& transformed)
 {
     return original == transformed;
 }
