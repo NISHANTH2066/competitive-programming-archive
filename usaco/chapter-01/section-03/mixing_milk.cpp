@@ -31,13 +31,13 @@ int main()
 
     sort(offers.begin(), offers.end());
 
-    unsigned long long spent_money {0};
+    unsigned int spent_money {0};
 
     for (unsigned int i {0}; i < farmers && needed_milk > 0; ++i)
     {
         unsigned int bought {min(needed_milk, offers[i].second)};
 
-        spent_money += static_cast<unsigned long long>(offers[i].first) * bought;
+        spent_money += offers[i].first * bought;
         needed_milk -= bought;
     }
 
