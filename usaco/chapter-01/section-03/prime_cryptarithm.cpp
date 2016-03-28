@@ -28,11 +28,11 @@ bool is_good_product(unsigned int x,
 {
     unsigned int partial_a {x * (y % 10)};
     unsigned int partial_b {x * (y / 10 % 10)};
-    unsigned int final     {x * y};
+    unsigned int product   {x * y};
 
     if (partial_a / 100  == 0 || partial_a / 1000  != 0 ||
         partial_b / 100  == 0 || partial_b / 1000  != 0 ||
-        final     / 1000 == 0 || final     / 10000 != 0)
+        product   / 1000 == 0 || product   / 10000 != 0)
     {
         return false;
     }
@@ -41,7 +41,7 @@ bool is_good_product(unsigned int x,
             is_good_number(y,         is_good_digit) &&
             is_good_number(partial_a, is_good_digit) &&
             is_good_number(partial_b, is_good_digit) &&
-            is_good_number(final,     is_good_digit));
+            is_good_number(product,   is_good_digit));
 }
 
 int main()
