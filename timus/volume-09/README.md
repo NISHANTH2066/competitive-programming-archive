@@ -3,6 +3,7 @@
 |  ID  |     Problem statement      |            Solution            |
 |:----:|:---------------------------|:------------------------------:|
 | 1820 | [Ural Steaks][]            | [ural_steaks.cpp][]            |
+| 1821 | [Biathlon][]               | [biathlon.cpp][]               |
 | 1837 | [Isenbaev's Number][]      | [isenbaevs_number.cpp][]       |
 | 1846 | [GCD 2010][]               | [gcd_2010.cpp][]               |
 | 1864 | [Get-Together at Den's][]  | [get_together_at_dens.cpp][]   |
@@ -15,6 +16,7 @@
 | 1893 | [A380][]                   | [a380.cpp][]                   |
 
 [Ural Steaks]:            http://acm.timus.ru/problem.aspx?space=1&num=1820
+[Biathlon]:               http://acm.timus.ru/problem.aspx?space=1&num=1821
 [Isenbaev's Number]:      http://acm.timus.ru/problem.aspx?space=1&num=1837
 [GCD 2010]:               http://acm.timus.ru/problem.aspx?space=1&num=1846
 [Get-Together at Den's]:  http://acm.timus.ru/problem.aspx?space=1&num=1864
@@ -27,6 +29,7 @@
 [A380]:                   http://acm.timus.ru/problem.aspx?space=1&num=1893
 
 [ural_steaks.cpp]:            ural_steaks.cpp
+[biathlon.cpp]:               biathlon.cpp
 [isenbaevs_number.cpp]:       isenbaevs_number.cpp
 [gcd_2010.cpp]:               gcd_2010.cpp
 [get_together_at_dens.cpp]:   get_together_at_dens.cpp
