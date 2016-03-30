@@ -18,6 +18,7 @@
 | 1146 | [Maximum Sum][]                   | [maximum_sum.cpp][]                  |
 | 1149 | [Sinus Dances][]                  | [sinus_dances.cpp][]                 |
 | 1161 | [Stripies][]                      | [stripies.cpp][]                     |
+| 1167 | [Bicolored Horses][]              | [bicolored_horses.cpp][]             |
 | 1178 | [Akbardin's Roads][]              | [akbardins_roads.cpp][]              |
 | 1180 | [Stone Game][]                    | [stone_game.cpp][]                   |
 | 1192 | [Ball in a Dream][]               | [ball_in_a_dream.cpp][]              |
@@ -41,6 +42,7 @@
 [Maximum Sum]:                   http://acm.timus.ru/problem.aspx?space=1&num=1146
 [Sinus Dances]:                  http://acm.timus.ru/problem.aspx?space=1&num=1149
 [Stripies]:                      http://acm.timus.ru/problem.aspx?space=1&num=1161
+[Bicolored Horses]:              http://acm.timus.ru/problem.aspx?space=1&num=1167
 [Akbardin's Roads]:              http://acm.timus.ru/problem.aspx?space=1&num=1178
 [Stone Game]:                    http://acm.timus.ru/problem.aspx?space=1&num=1180
 [Ball in a Dream]:               http://acm.timus.ru/problem.aspx?space=1&num=1192
@@ -64,6 +66,7 @@
 [maximum_sum.cpp]:                  maximum_sum.cpp
 [sinus_dances.cpp]:                 sinus_dances.cpp
 [stripies.cpp]:                     stripies.cpp
+[bicolored_horses.cpp]:             bicolored_horses.cpp
 [akbardins_roads.cpp]:              akbardins_roads.cpp
 [stone_game.cpp]:                   stone_game.cpp
 [ball_in_a_dream.cpp]:              ball_in_a_dream.cpp
