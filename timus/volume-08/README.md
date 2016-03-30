@@ -8,6 +8,7 @@
 | 1725 | [Sold Out!][]                    | [sold_out.cpp][]                     |
 | 1731 | [Dill][]                         | [dill.cpp][]                         |
 | 1740 | [Deer is Better!][]              | [deer_is_better.cpp][]               |
+| 1756 | [One and a Half Diggers][]       | [one_and_a_half_diggers.cpp][]       |
 | 1777 | [Anindilyakwa][]                 | [anindilyakwa.cpp][]                 |
 | 1785 | [Lost in Localization][]         | [lost_in_localization.cpp][]         |
 | 1786 | [Sandro's Biography][]           | [sandros_biography.cpp][]            |
@@ -22,6 +23,7 @@
 [Sold Out!]:                    http://acm.timus.ru/problem.aspx?space=1&num=1725
 [Dill]:                         http://acm.timus.ru/problem.aspx?space=1&num=1731
 [Deer is Better!]:              http://acm.timus.ru/problem.aspx?space=1&num=1740
+[One and a half Diggers]:       http://acm.timus.ru/problem.aspx?space=1&num=1756
 [Anindilyakwa]:                 http://acm.timus.ru/problem.aspx?space=1&num=1777
 [Lost in Localization]:         http://acm.timus.ru/problem.aspx?space=1&num=1785
 [Sandro's Biography]:           http://acm.timus.ru/problem.aspx?space=1&num=1786
@@ -36,6 +38,7 @@
 [sold_out.cpp]:                     sold_out.cpp
 [dill.cpp]:                         dill.cpp
 [deer_is_better.cpp]:               deer_is_better.cpp
+[one_and_a_half_diggers.cpp]:       one_and_a_half_diggers.cpp
 [anindilyakwa.cpp]:                 anindilyakwa.cpp
 [lost_in_localization.cpp]:         lost_in_localization.cpp
 [sandros_biography.cpp]:            sandros_biography.cpp
