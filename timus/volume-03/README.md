@@ -5,9 +5,10 @@
 | 1203 | [Scientific Conference][]               | [scientific_conference.cpp][]               |
 | 1206 | [Sum of Digits of the Sum of Numbers][] | [sum_of_digits_of_the_sum_of_numbers.cpp][] |
 | 1209 | [1, 10, 100, 1000 ...][]                | [1_10_100_1000.cpp][]                       |
+| 1210 | [Kind Spirits][]                        | [kind_spirits.cpp][]                        |
 | 1214 | [Strange Procedure][]                   | [strange_procedure.cpp][]                   |
 | 1219 | [Symbolic Sequence][]                   | [symbolic_sequence.cpp][]                   |
-| 1222 | [Chernobyl' Eagles][]                   | [chernobyl_eagles.cpp][]
+| 1222 | [Chernobyl' Eagles][]                   | [chernobyl_eagles.cpp][]                    |
 | 1224 | [Spiral][]                              | [spiral.cpp][]                              |
 | 1225 | [Flags][]                               | [flags.cpp][]                               |
 | 1226 | [esreveR redrO][]                       | [esrever_redro.cpp][]                       |
@@ -27,6 +28,7 @@
 [Scientific Conference]:               http://acm.timus.ru/problem.aspx?space=1&num=1203
 [Sum of Digits of the Sum of Numbers]: http://acm.timus.ru/problem.aspx?space=1&num=1206
 [1, 10, 100, 1000 ...]:                http://acm.timus.ru/problem.aspx?space=1&num=1209
+[Kind Spirits]:                        http://acm.timus.ru/problem.aspx?space=1&num=1210
 [Strange Procedure]:                   http://acm.timus.ru/problem.aspx?space=1&num=1214
 [Symbolic Sequence]:                   http://acm.timus.ru/problem.aspx?space=1&num=1219
 [Chernobyl' Eagles]:                   http://acm.timus.ru/problem.aspx?space=1&num=1222
@@ -49,6 +51,7 @@
 [scientific_conference.cpp]:               scientific_conference.cpp
 [sum_of_digits_of_the_sum_of_numbers.cpp]: sum_of_digits_of_the_sum_of_numbers.cpp
 [1_10_100_1000.cpp]:                       1_10_100_1000.cpp
+[kind_spirits.cpp]:                        kind_spirits.cpp
 [strange_procedure.cpp]:                   strange_procedure.cpp
 [symbolic_sequence.cpp]:                   symbolic_sequence.cpp
 [chernobyl_eagles.cpp]:                    chernobyl_eagles.cpp
