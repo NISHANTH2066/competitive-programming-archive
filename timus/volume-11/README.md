@@ -17,6 +17,7 @@
 | 2056 | [Scholarship][]                 | [scholarship.cpp][]                 |
 | 2066 | [Simple Expression][]           | [simple_expression.cpp][]           |
 | 2068 | [Game of Nuts][]                | [game_of_nuts.cpp][]                |
+| 2073 | [Log Files][]                   | [log_files.cpp][]                   |
 
 [Grand Theft Array V]:         http://acm.timus.ru/problem.aspx?space=1&num=2000
 [Mathematicians and Berries]:  http://acm.timus.ru/problem.aspx?space=1&num=2001
@@ -33,6 +34,7 @@
 [Scholarship]:                 http://acm.timus.ru/problem.aspx?space=1&num=2056
 [Simple Expression]:           http://acm.timus.ru/problem.aspx?space=1&num=2066
 [Game of Nuts]:                http://acm.timus.ru/problem.aspx?space=1&num=2068
+[Log Files]:                   http://acm.timus.ru/problem.aspx?space=1&num=2073
 
 [grand_theft_array_v.cpp]:         grand_theft_array_v.cpp
 [mathematicians_and_berries.cpp]:  mathematicians_and_berries.cpp
@@ -49,3 +51,4 @@
 [scholarship.cpp]:                 scholarship.cpp
 [simple_expression.cpp]:           simple_expression.cpp
 [game_of_nuts.cpp]:                game_of_nuts.cpp
+[log_files.cpp]:                   log_files.cpp
