@@ -15,6 +15,7 @@
 | 1028 | [Stars][]                 | [stars.cpp][]                 |
 | 1044 | [Lucky Tickets. Easy!][]  | [lucky_tickets_easy.cpp][]    |
 | 1068 | [Sum][]                   | [sum.cpp][]                   |
+| 1073 | [Square Country][]        | [square_country.cpp][]        |
 | 1079 | [Maximum][]               | [maximum.cpp][]               |
 | 1080 | [Map Coloring][]          | [map_coloring.cpp][]          |
 | 1082 | [Gaby Ivanushka][]        | [gaby_ivanushka.cpp][]        |
@@ -35,6 +36,7 @@
 [Stars]:                 http://acm.timus.ru/problem.aspx?space=1&num=1028
 [Lucky Tickets. Easy!]:  http://acm.timus.ru/problem.aspx?space=1&num=1044
 [Sum]:                   http://acm.timus.ru/problem.aspx?space=1&num=1068
+[Square Country]:        http://acm.timus.ru/problem.aspx?space=1&num=1073
 [Map Coloring]:          http://acm.timus.ru/problem.aspx?space=1&num=1080
 [Maximum]:               http://acm.timus.ru/problem.aspx?space=1&num=1079
 [Gaby Ivanushka]:        http://acm.timus.ru/problem.aspx?space=1&num=1082
@@ -55,6 +57,7 @@
 [stars.cpp]:                 stars.cpp
 [lucky_tickets_easy.cpp]:    lucky_tickets_easy.cpp
 [sum.cpp]:                   sum.cpp
+[square_country.cpp]:        square_country.cpp
 [maximum.cpp]:               maximum.cpp
 [map_coloring.cpp]:          map_coloring.cpp
 [gaby_ivanushka.cpp]:        gaby_ivanushka.cpp
