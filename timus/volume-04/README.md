@@ -2,6 +2,7 @@
 
 |  ID  |        Problem statement         |              Solution               |
 |:----:|:---------------------------------|:-----------------------------------:|
+| 1306 | [Sequence Median][]              | [sequence_median.cpp][]             |
 | 1313 | [Some Words about Sport][]       | [some_words_about_sport.cpp][]      |
 | 1319 | [Hotel][]                        | [hotel.cpp][]                       |
 | 1327 | [Fuses][]                        | [fuses.cpp][]                       |
@@ -13,6 +14,7 @@
 | 1354 | [Palindrome. Again Palindrome][] | [palindrome_again_palindrome.cpp][] |
 | 1370 | [Magician][]                     | [magician.cpp][]                    |
 
+[Sequence Median]:              http://acm.timus.ru/problem.aspx?space=1&num=1306
 [Some Words about Sport]:       http://acm.timus.ru/problem.aspx?space=1&num=1313
 [Hotel]:                        http://acm.timus.ru/problem.aspx?space=1&num=1319
 [Fuses]:                        http://acm.timus.ru/problem.aspx?space=1&num=1327
@@ -24,6 +26,7 @@
 [Palindrome. Again Palindrome]: http://acm.timus.ru/problem.aspx?space=1&num=1354
 [Magician]:                     http://acm.timus.ru/problem.aspx?space=1&num=1370
 
+[sequence_median.cpp]:             sequence_median.cpp
 [some_words_about_sport.cpp]:      some_words_about_sport.cpp
 [hotel.cpp]:                       hotel.cpp
 [fuses.cpp]:                       fuses.cpp
