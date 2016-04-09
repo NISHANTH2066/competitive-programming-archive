@@ -40,6 +40,7 @@
 | [Billiard][]                        | [billiard.cpp][]                        |
 | [Ladder][]                          | [ladder.cpp][]                          |
 | [Numbers On a Tree][]               | [numbers_on_a_tree.cpp][]               |
+| [Speed Limit][]                     | [speed_limit.cpp][]                     |
 
 [Aaah!]:                           https://open.kattis.com/problems/aaah
 [A Different Problem]:             https://open.kattis.com/problems/different
@@ -79,6 +80,7 @@
 [Billiard]:                        https://open.kattis.com/problems/billiard
 [Ladder]:                          https://open.kattis.com/problems/ladder
 [Numbers On a Tree]:               https://open.kattis.com/problems/numbertree
+[Speed Limit]:                     https://open.kattis.com/problems/speedlimit
 
 [aaah.cpp]:                            aaah.cpp
 [a_different_problem.cpp]:             a_different_problem.cpp
@@ -118,3 +120,4 @@
 [billiard.cpp]:                        billiard.cpp
 [ladder.cpp]:                          ladder.cpp
 [numbers_on_a_tree.cpp]:               numbers_on_a_tree.cpp
+[speed_limit.cpp]:                     speed_limit.cpp
