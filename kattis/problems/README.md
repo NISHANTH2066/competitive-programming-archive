@@ -41,6 +41,7 @@
 | [Ladder][]                          | [ladder.cpp][]                          |
 | [Numbers On a Tree][]               | [numbers_on_a_tree.cpp][]               |
 | [Speed Limit][]                     | [speed_limit.cpp][]                     |
+| [Spavanac][]                        | [spavanac.cpp][]                        |
 
 [Aaah!]:                           https://open.kattis.com/problems/aaah
 [A Different Problem]:             https://open.kattis.com/problems/different
@@ -81,6 +82,7 @@
 [Ladder]:                          https://open.kattis.com/problems/ladder
 [Numbers On a Tree]:               https://open.kattis.com/problems/numbertree
 [Speed Limit]:                     https://open.kattis.com/problems/speedlimit
+[Spavanac]:                        https://open.kattis.com/problems/spavanac
 
 [aaah.cpp]:                            aaah.cpp
 [a_different_problem.cpp]:             a_different_problem.cpp
@@ -121,3 +123,4 @@
 [ladder.cpp]:                          ladder.cpp
 [numbers_on_a_tree.cpp]:               numbers_on_a_tree.cpp
 [speed_limit.cpp]:                     speed_limit.cpp
+[spavanac.cpp]:                        spavanac.cpp
