@@ -16,15 +16,7 @@ int main()
     unsigned int distance;
     cin >> distance;
 
-    unsigned int steps {0};
-
-    for (unsigned int i {5}; i >= 1; --i)
-    {
-        steps    += distance / i;
-        distance %= i;
-    }
-
-    cout << steps << '\n';
+    cout << (distance + 4) / 5 << '\n';
 
     return 0;
 }
