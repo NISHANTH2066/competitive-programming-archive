@@ -1,10 +1,7 @@
+#include <algorithm>
 #include <iostream>
 
 using namespace std;
-
-constexpr unsigned int max_length {20};
-constexpr unsigned int max_width  {20};
-constexpr unsigned int max_height {20};
 
 inline void use_io_optimizations()
 {
@@ -29,7 +26,7 @@ int main()
 
         cout << "Case " << test << ": ";
 
-        if (length <= max_length && width <= max_width && height <= max_height)
+        if (max({length, width, height}) <= 20)
         {
             cout << "good";
         }
