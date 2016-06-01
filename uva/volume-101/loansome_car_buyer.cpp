@@ -21,29 +21,29 @@ int main()
 
     while (cin >> duration >> down_payment >> loan >> records && duration >= 0)
     {
-        vector<double> deprecations(duration + 1, -1);
+        vector<double> depreciations(duration + 1, -1);
 
         for (int i {0}; i < records; ++i)
         {
             int month;
             cin >> month;
-            cin >> deprecations[month];
+            cin >> depreciations[month];
         }
 
-        double deprecation     {deprecations.front()};
-        double car_worth       {(loan + down_payment) * (1.0 - deprecation)};
+        double depreciation    {depreciations.front()};
+        double car_worth       {(loan + down_payment) * (1.0 - depreciation)};
         double monthly_payment {loan / duration};
 
         int month;
 
         for (month = 0; month < duration && car_worth <= loan; ++month)
         {
-            if (deprecations[month + 1] != -1)
+            if (depreciations[month + 1] != -1)
             {
-                deprecation = deprecations[month + 1];
+                depreciation = depreciations[month + 1];
             }
 
-            car_worth *= 1.0 - deprecation;
+            car_worth *= 1.0 - depreciation;
             loan      -= monthly_payment;
         }
 
