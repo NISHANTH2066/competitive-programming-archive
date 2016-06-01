@@ -30,9 +30,9 @@ int main()
         cin >> name;
     }
 
-    for (unsigned int i {0}, j {0}; i < people || j % song.size(); ++i, ++j)
+    for (unsigned int i {0}; i < people || i % song.size(); ++i)
     {
-        cout << names[i % people] << ": " << song[j % song.size()] << '\n';
+        cout << names[i % people] << ": " << song[i % song.size()] << '\n';
     }
 
     return 0;
